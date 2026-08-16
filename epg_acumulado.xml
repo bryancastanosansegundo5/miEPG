@@ -69,7 +69,7 @@
 	</programme>
 	<programme start="20260816130500 +0200" stop="20260816145500 +0200" channel="La 1">
     <title>D Corazón T3 E66</title>
-    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.2/10
+    <desc>Entretenimiento,Corazon y sociedad | 2026 | TP | *6.4/10
 · Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.
 · País: España
 · Presenta: Anne Igartiburu, Javier de Hoyos.</desc>
@@ -111,7 +111,7 @@
 	</programme>
 	<programme start="20260816165500 +0200" stop="20260816185000 +0200" channel="La 1">
     <title>DIRECTO Schalke - Real Madrid T26/27 · Pretemporada</title>
-    <desc>Deportes,Fútbol | 2026 | TP | *6.0/10
+    <desc>Deportes,Fútbol | 2026 | TP | *6.4/10
 · Los equipos se preparan para el inicio inminente de las competiciones de clubes con una serie de partidos amistosos. Los entrenadores intentan encajar las piezas, los nuevos fichajes y ensayar las tácticas con las que aspiran a la victoria.
 · País: Reino Unido</desc>
 	</programme>
@@ -135,7 +135,7 @@
 	</programme>
 	<programme start="20260816205500 +0200" stop="20260816215000 +0200" channel="La 1">
     <title>Telediario 2 Fin de Semana</title>
-    <desc>Información,Informativo | 2017 | TP | *4.0/10
+    <desc>Información,Informativo | 2017 | *4.0/10
 · Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -277,7 +277,7 @@
 	</programme>
 	<programme start="20260817202500 +0200" stop="20260817205500 +0200" channel="La 1">
     <title>Aquí la Tierra T15 E803</title>
-    <desc>Entretenimiento,Magacín | 2026 | TP | *6.2/10
+    <desc>Entretenimiento,Magacín | 2026 | TP | *6.0/10
 · Marc Santandreu ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.
 · País: España
 · Presenta: Marc Santandreu.</desc>
@@ -299,7 +299,7 @@
 	</programme>
 	<programme start="20260817214500 +0200" stop="20260818005500 +0200" channel="La 1">
     <title>El Grand Prix del Verano T4 · Muros vs Blanca</title>
-    <desc>Entretenimiento,Concurso | 2026 | TP | *6.0/10
+    <desc>Entretenimiento,Concurso | 2026 | TP | *6.8/10
 · Muros y Blanca se enfrentan en la última batalla por una plaza en las semifinales.
 · País: España
 · Presenta: Ramón García, Gorka Rodríguez, Lalachus.
@@ -730,13 +730,13 @@
 · País: Francia
 · Presenta: Anatole De Bodinat.</desc>
 	</programme>
-	<programme start="20260816073700 +0200" stop="20260816082500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816073700 +0200" stop="20260816082700 +0200" channel="La 2 Super Full HD 8k">
     <title>planeta arqueología: Cuando el pasado se explica · Conseguir que hablen los yacimientos</title>
     <desc>Documentales,Naturaleza | 2022 | TP | *6.4/10
 · Los yacimientos arqueológicos se enfrentan a una carrera contrarreloj, amenazados por los saqueos, las guerras y el cambio climático.
 · Dirección: Alexandra Barbot.</desc>
 	</programme>
-	<programme start="20260816082500 +0200" stop="20260816091500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816082700 +0200" stop="20260816091500 +0200" channel="La 2 Super Full HD 8k">
     <title>Los conciertos de La 2 T25/26 · Ciclo Cámara OCRTVE 31/01: La España Virreinal</title>
     <desc>Música,Música clásica | 2026 | TP | *6.0/10
 · Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
@@ -750,21 +750,21 @@
 · Programa de culto islámico.
 · País: España</desc>
 	</programme>
-	<programme start="20260816093000 +0200" stop="20260816094500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816093000 +0200" stop="20260816094600 +0200" channel="La 2 Super Full HD 8k">
     <title>Buenas noticias. TV</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
 · Programa semanal de las Iglesias Evangélicas de España.
 · País: España
 · Presenta: Benita Moreno.</desc>
 	</programme>
-	<programme start="20260816094500 +0200" stop="20260816100000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816094600 +0200" stop="20260816100000 +0200" channel="La 2 Super Full HD 8k">
     <title>Shalom</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.2/10
 · Programa semanal dirigido a la comunidad judía en España.
 · País: España
 · Presenta: Coty Aserín, Gemma Ruth Lazovsky.</desc>
 	</programme>
-	<programme start="20260816100000 +0200" stop="20260816102500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816100000 +0200" stop="20260816102400 +0200" channel="La 2 Super Full HD 8k">
     <title>Últimas preguntas</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.2/10
 · Programa religioso sobre temas de interés cultural, histórico, católico, moral y familiar.
@@ -773,7 +773,7 @@
 · Dirección: María de los Ángeles Fernández.
 · Producción: Antonio Torets Leal.</desc>
 	</programme>
-	<programme start="20260816102500 +0200" stop="20260816103000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816102400 +0200" stop="20260816102900 +0200" channel="La 2 Super Full HD 8k">
     <title>Testimonio</title>
     <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
 · Minireportajes que dan a conocer las distintas realidades de la Iglesia.
@@ -783,15 +783,15 @@
 · Guion: Isidro Catela.
 · Producción: Antonio Torets Leal.</desc>
 	</programme>
-	<programme start="20260816103000 +0200" stop="20260816113000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816102900 +0200" stop="20260816113000 +0200" channel="La 2 Super Full HD 8k">
     <title>El día del señor T2026 · Parroquia De Sta. Maria La Antigua, Madrid</title>
-    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.4/10
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.8/10
 · Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
 · País: España
 · Dirección: Juan Carlos Ramos.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260816113000 +0200" stop="20260816115500 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816113000 +0200" stop="20260816115600 +0200" channel="La 2 Super Full HD 8k">
     <title>Pueblo de Dios</title>
     <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
 · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
@@ -799,7 +799,7 @@
 · Dirección: Julián Del Olmo.
 · Productora: Televisión Española (TVE).</desc>
 	</programme>
-	<programme start="20260816115500 +0200" stop="20260816122000 +0200" channel="La 2 Super Full HD 8k">
+	<programme start="20260816115600 +0200" stop="20260816122000 +0200" channel="La 2 Super Full HD 8k">
     <title>Pueblo de Dios</title>
     <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
 · Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
@@ -829,7 +829,7 @@
 · Dirección: Jesús María Montes-Fernández.</desc>
 	</programme>
 	<programme start="20260816134500 +0200" stop="20260816141500 +0200" channel="La 2 Super Full HD 8k">
-    <title>El escarabajo verde: Fusión por fisión · El escarabajo verde: Txernòbil</title>
+    <title>El escarabajo verde: Fusión por fisión</title>
     <desc>Documentales,Naturaleza | 2026 | TP | *6.2/10
 · Un reportaje que revisa, 40 años después de Chernóbil, el debate actual sobre la energía nuclear en el contexto de la crisis energética, contraponiendo distintas posturas y poniendo el foco en nuevas vías como la fusión nuclear.
 · País: España
@@ -857,7 +857,7 @@
 	</programme>
 	<programme start="20260816162000 +0200" stop="20260816171000 +0200" channel="La 2 Super Full HD 8k">
     <title>El mar arábigo: El Legado de una tortuga</title>
-    <desc>Documentales,Naturaleza | 2017 | TP | *6.4/10
+    <desc>Documentales,Naturaleza | 2017 | TP | *6.6/10
 · Las aguas de la Península Arábiga son el hogar de peligrosos depredadores como los tiburones cebra, reyes camuflados como la sepia y visitantes ocasionales como el tiburón ballena o la tortuga carey.
 · País: Canadá
 · Productora: Blue Ant Media.</desc>
@@ -986,7 +986,7 @@
 	</programme>
 	<programme start="20260817060000 +0200" stop="20260817062500 +0200" channel="La 2 Super Full HD 8k">
     <title>El bosque protector: Fauna amenazada: quebrantahuesos</title>
-    <desc>Documentales,Naturaleza | TP | *6.4/10
+    <desc>Documentales,Naturaleza | TP | *6.2/10
 · Serie documental sobre los bosques de España, que tiene como objetivo concienciar de la importancia que han tenido y tienen los bosques en la historia natural, social y económica del país, desde los tiempos más remotos hasta la actualidad.
 · País: España
 · Presenta: Luis García Esteban.
@@ -1009,7 +1009,7 @@
 	</programme>
 	<programme start="20260817073000 +0200" stop="20260817080000 +0200" channel="La 2 Super Full HD 8k">
     <title>Jardines con historia: Madrid: Campo del Moro</title>
-    <desc>Documentales,Naturaleza | 2023 | TP | *6.4/10
+    <desc>Documentales,Naturaleza | 2023 | TP | *7.0/10
 · El Campo del Moro es el jardín histórico más singular de Madrid.
 · País: España
 · Presenta: Mónica Luengo.
@@ -3554,6 +3554,47 @@
   <programme start="20260818173000 -0500" stop="20260818193000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Acércate a Rocío</title>
   </programme>
+	<programme start="20260816082500 +0200" stop="20260816091500 +0200" channel="La 2 Super Full HD 8k">
+    <title>Los conciertos de La 2 T25/26 · Ciclo Cámara OCRTVE 31/01: La España Virreinal</title>
+    <desc>Música,Música clásica | 2026 | TP | *6.0/10
+· Retransmisión de un concierto de la Orquestra Sinfónica o del Coro de RTVE.
+· País: España
+· Dirección: Arturo Morales.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260816094500 +0200" stop="20260816100000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Shalom</title>
+    <desc>Cultural/Educativo,Religión | 2017 | TP | *6.2/10
+· Programa semanal dirigido a la comunidad judía en España.
+· País: España
+· Presenta: Coty Aserín, Gemma Ruth Lazovsky.</desc>
+	</programme>
+	<programme start="20260816102500 +0200" stop="20260816103000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Testimonio</title>
+    <desc>Cultural/Educativo,Religión | 2017 | TP | *6.0/10
+· Minireportajes que dan a conocer las distintas realidades de la Iglesia.
+· País: España
+· Presenta: Isidro Catela.
+· Dirección: Isidro Catela.
+· Guion: Isidro Catela.
+· Producción: Antonio Torets Leal.</desc>
+	</programme>
+	<programme start="20260816103000 +0200" stop="20260816113000 +0200" channel="La 2 Super Full HD 8k">
+    <title>El día del señor T2026 · Parroquia De Sta. Maria La Antigua, Madrid</title>
+    <desc>Cultural/Educativo,Religión | 2026 | TP | *6.4/10
+· Programa religioso que retransmite la celebración de la eucaristía desde diferentes parroquias de toda España y un reportaje relacionado con la localidad, su patrimonio cultural, artístico, o de la festividad que se celebra en la liturgia.
+· País: España
+· Dirección: Juan Carlos Ramos.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
+	<programme start="20260816115500 +0200" stop="20260816122000 +0200" channel="La 2 Super Full HD 8k">
+    <title>Pueblo de Dios</title>
+    <desc>Cultural/Educativo,Religión | 1982 | TP | *6.2/10
+· Programa religioso que ofrece reportajes sobre el trabajo que realizan ONG en Sudamérica.
+· País: España
+· Dirección: Julián Del Olmo.
+· Productora: Televisión Española (TVE).</desc>
+	</programme>
 	<programme start="20260815070000 +0200" stop="20260815100000 +0200" channel="La 1">
     <title>Noticias 24H</title>
     <desc>Información,Informativo | 2021 | *6.2/10
