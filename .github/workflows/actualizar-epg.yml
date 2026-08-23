@@ -1,0 +1,41 @@
+name: Actualizar EPG
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-epg
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar EPG
+        run: python generar_epg.py
+
+      - name: Publicar solo si ha cambiado
+        shell: bash
+        run: |
+          if [[ -z "$(git status --porcelain -- epg.xml)" ]]; then
+            echo "epg.xml no ha cambiado"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git commit -m "Actualizar EPG"
+          git push
