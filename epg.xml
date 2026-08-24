@@ -139,17 +139,6 @@
     <display-name>M+ Liga de Campeones 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" />
   </channel>
-  <channel id="M+ Liga de Campeones 2 HD">
-    <display-name>M+ Liga de Campeones 2</display-name>
-    <display-name>M+ Liga de Campeones 2.TV</display-name>
-    <display-name>M+ Liga de Campeones 2 SD</display-name>
-    <display-name>M+ Liga de Campeones 2 HD</display-name>
-    <display-name>M+ Liga de Campeones 2 FHD</display-name>
-    <display-name>M+ Liga de Campeones 2 UHD</display-name>
-    <display-name>M+ Liga de Campeones 2 720</display-name>
-    <display-name>M+ Liga de Campeones 2 1080</display-name>
-    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" />
-  </channel>
   <channel id="Movistar Plus+ HD">
     <display-name>Movistar Plus</display-name>
     <display-name>Movistar Plus.TV</display-name>
@@ -332,132 +321,6 @@
     <display-name>Tennis Channel 1080</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" />
   </channel>
-  <programme start="20260822060000 +0000" stop="20260822074400 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Juventus - Parma</title>
-    <desc lang="it">I bianconeri hanno vinto gli ultimi 3 esordi. Imbattuti a Torino negli ultimi 8 precedenti, 6 vittorie e 2 pareggi. Il Parma non vince la prima di A dal 2010. TC: Federico Zancan.</desc>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/b887485e-6dca-4395-a556-5b69f5c19a89/cover?territory=IT&amp;md5ChecksumParam=086d556aca8a645ad63bf8aff6ebcba0&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2025 E8</episode-num>
-  </programme>
-  <programme start="20260822074400 +0000" stop="20260822081100 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Christian Pulisic: The Italian Dream</title>
-    <desc lang="it">Christian Pulisic e il leggendario coach Dan Peterson in una chiacchierata, 1 to 1, parlano del momento del calciatore statunitense e di tutta la sua esperienza italiana e rossonera.</desc>
-    <credits>
-      <actor>Dan Peterson</actor>
-      <actor>Christian Pulisic</actor>
-    </credits>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/bc192832-4de2-4485-8bcf-7ef6ba98b99c/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=0c50803bff059f51eab3e1af76e72058&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260822081100 +0000" stop="20260822100300 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Lazio - Torino</title>
-    <desc lang="it">Dallo Stadio Olimpico di Roma, Italia.</desc>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/921cf766-da88-4f53-a3a3-b7e5864dd664/cover?territory=IT&amp;md5ChecksumParam=99d71ef109747134e11a36620749dcee&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-    <episode-num system="onscreen">S2025 E52</episode-num>
-  </programme>
-  <programme start="20260822100300 +0000" stop="20260822102900 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Giovanni Simeone: la mia ispirazione</title>
-    <desc lang="it">Storie di Serie A e' il format di Radio TV Serie A e DAZN che racconta le storie dei grandi personaggi del nostro campionato. In questo episodio Simeone ripercorre il suo passaggio da Napoli a Torino.</desc>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c98f4206-92ab-4ee7-807a-036df8d874cd/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=a566fb6a96051a72c17d9f89f6348ccd&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260822102900 +0000" stop="20260822121300 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Sassuolo - Napoli - Stag. 2025 Ep. 1a g. - Sassuolo - Napoli</title>
-    <desc lang="it">Serie A - 1a g. Ambizione, tattica e personalita': la stagione riparte con gli allenatori protagonisti, tra ritorni, rivoluzioni e conferme.</desc>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c14754fc-97f2-4e67-bb2d-866585a81317/cover?territory=IT&amp;md5ChecksumParam=581777c172316b8be9846cc9b998d716&amp;sid=566.it" />
-  </programme>
-  <programme start="20260822121300 +0000" stop="20260822130000 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Inter: Tutti i gol della stagione 25-26</title>
-    <desc lang="it">Rivivi la cavalcata nerazzurra dalla prima alla 38esima giornata, gol dopo gol.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/c756a5ac-0dc7-4a09-8f0d-847d295b6346/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=8cf8995491d82d7c08bab3343fa9170a&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260822130000 +0000" stop="20260822151700 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Italia - Montenegro</title>
-    <desc lang="it">Europei F: Italia - Montenegro. Fase a gironi - Il campionato europeo femminile di pallavolo 2026 si disputa dal 21 agosto al 6 settembre. Le prime quattro classificate di ogni girone accedono agli ottavi di finale.</desc>
-    <date>2026</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Volley</category>
-    <icon src="https://guidatv.sky.it/uuid/d78bb34d-a717-461c-bfc2-f2771e9408e7/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=7d2d2694a0a525d46c2cf147e42d0d71&amp;sid=566.it" />
-    <country lang="it">SWE</country>
-    <episode-num system="onscreen">S2026 E2</episode-num>
-    <premiere />
-  </programme>
-  <programme start="20260822151700 +0000" stop="20260822154700 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Nicolò Zaniolo: Rivincita</title>
-    <desc lang="it">Nicolo' Zaniolo ripercorre gli alti e bassi della sua carriera e la nuova occasione all'Udinese. Non perdere "Nicolo' Zaniolo: Rivincita" su DAZN!</desc>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/1afbefb3-18e5-43f8-8f53-454cb2849b67/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=fd8c922fc49f6583f859d345d3fe7da7&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260822154700 +0000" stop="20260822155900 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Stag. 2025 - Top 30 Gol Inter - Milan</title>
-    <desc lang="it">Guarda la Top Gol di Inter-Milan. Segui la Serie A Enilive su DAZN!</desc>
-    <date>2025</date>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/db968da3-43b2-4555-902e-78ccc9fd2b54/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=6feb49d553620ffea24de8191c3af854&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
-  <programme start="20260822155900 +0000" stop="20260822161500 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Dimarco: Vincere non stanca</title>
-    <desc lang="it">Michele Dalai intervista Federico Dimarco, l'esterno dell'Inter reduce da una stagione da incorniciare con 7 gol, 18 assist, il premio di miglior giocatore del campionato e il double con i nerazzurri.</desc>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
-  </programme>
-  <programme start="20260822161500 +0000" stop="20260822183000 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Inter - Monza</title>
-    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
-    <premiere />
-  </programme>
-  <programme start="20260822183000 +0000" stop="20260822204800 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Parma - Cagliari</title>
-    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
-    <premiere />
-  </programme>
-  <programme start="20260822204800 +0000" stop="20260822223000 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Stag. 2025 - Uno, nessuno, Manenti</title>
-    <desc lang="it">La storia di Giampietro Manenti: un documentario sul crac-Parma del 2015 e su tutto cio' che e' successo.</desc>
-    <category lang="it">Sport</category>
-    <category lang="it">Calcio</category>
-    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
-  </programme>
-  <programme start="20260822223000 +0000" stop="20260823040000 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Stag. 2019 - DAZN 1</title>
-    <desc lang="it">DAZN 1.</desc>
-    <date>2019</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri Canali</category>
-    <icon src="https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&amp;sid=566.it" />
-    <country lang="it">ITA</country>
-  </programme>
   <programme start="20260823000000 +0000" stop="20260823003200 +0000" channel="PT | Sport TV +">
     <title>Toulouse x Lyon: Liga Francesa (Long Summary) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Toulouse x Lyon[/COLOR]</title>
     <desc>[COLOR SlateBlue]Futebol,Desporto[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -534,15 +397,6 @@
 [COLOR teal]· País:[/COLOR] Francia</desc>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c82e2d5aea624b2db27b5e7b821b6469/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c82e2d5aea624b2db27b5e7b821b6469/version/0" />
-  </programme>
-  <programme start="20260823040000 +0000" stop="20260823060000 +0000" channel="DAZN.1.it.it">
-    <title lang="it">Stag. 2019 - DAZN 1</title>
-    <desc lang="it">DAZN 1.</desc>
-    <date>2019</date>
-    <category lang="it">Altri Programmi</category>
-    <category lang="it">Altri Canali</category>
-    <icon src="https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&amp;sid=566.it" />
-    <country lang="it">ITA</country>
   </programme>
   <programme start="20260823040200 +0000" stop="20260823050000 +0000" channel="PT | Sport TV +">
     <title>UFC BJJ 2026 (Long Summary) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]BJJ 10 - Tackett x Gracie - Las Vegas[/COLOR]</title>
@@ -1575,10 +1429,6 @@
 [COLOR teal]· País:[/COLOR] Reino Unido</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4383635" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4383635" />
-  </programme>
-  <programme start="20260823120000 +0200" stop="20260824000000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260823120000 +0200" stop="20260823130000 +0200" channel="M+ Liga de Campeones HD">
     <title>Universo Valdano [COLOR tomato]T9[/COLOR] [COLOR goldenrod]David Raya[/COLOR]</title>
@@ -3681,10 +3531,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4494168" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4494169" />
   </programme>
-  <programme start="20260824000000 +0200" stop="20260824120000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
   <programme start="20260824000500 +0200" stop="20260824022000 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Jornada 6: River Plate - Vélez [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Liga Argentina. Torneo Clausura[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
@@ -5377,10 +5223,6 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-  </programme>
-  <programme start="20260824120000 +0200" stop="20260825000000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260824121000 +0200" stop="20260824140500 +0200" channel="M+ LaLiga HD">
     <title>LALIGA EA SPORTS [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Valencia - Celta[/COLOR]</title>
@@ -7251,10 +7093,6 @@
     <title>M+ Deportes 3</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20260825000000 +0200" stop="20260825080000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
   <programme start="20260825000200 +0000" stop="20260825003100 +0000" channel="PT | Sport TV +">
     <title>Liga Francesa [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Resumo da Jornada[/COLOR]</title>
     <desc>[COLOR SlateBlue]Magazine de desporto,Desporto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -8152,13 +7990,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4491573" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4491572" />
   </programme>
-  <programme start="20260825080000 +0200" stop="20260825150000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
-  </programme>
   <programme start="20260825080000 +0200" stop="20260825085100 +0200" channel="Movistar Plus+ HD">
     <title>Monumentos de la antigüedad [COLOR goldenrod]Tikal. La ciudad de la jungla[/COLOR]</title>
     <desc>[COLOR SlateBlue]Documentales,Historia[/COLOR] | [COLOR cadetblue]2023[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
@@ -8986,13 +8817,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
   </programme>
-  <programme start="20260825150000 +0200" stop="20260825205300 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
-  </programme>
   <programme start="20260825150300 +0200" stop="20260825153100 +0200" channel="M+ Golf HD">
     <title>Torneos Profesionales [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Fred. Olsen Alps de la Gomera[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Golf[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
@@ -9793,13 +9617,6 @@
     <icon src="https://guidatv.sky.it/uuid/72058848-6bee-45d3-a8ec-b64fa6f7c7d9/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=ae106c381d3a2d0aca8ade6c3eec7cba&amp;sid=566.it" />
     <country lang="it">ITA</country>
   </programme>
-  <programme start="20260825205300 +0200" stop="20260825230000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>DIRECTO Play-offs Clasificación: Bodo/Glimt - NEC [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
-· Solo uno de los dos podrá estar la próxima temporada en la Champions League. Bodo tiene ventaja tras ganar en la ida 3-1, pero los holandeses tiene calidad suficiente para intentar darle la vuelta.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
-  </programme>
   <programme start="20260825205300 +0200" stop="20260825230000 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -10093,13 +9910,6 @@
 · Eurofighters... (2026): Ep.4 -.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2608359V4342194" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2609625V4342194" />
-  </programme>
-  <programme start="20260825230000 +0200" stop="20260826060000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
   </programme>
   <programme start="20260825230000 +0200" stop="20260826005000 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: Sabah - Hapoel Beer-Sheva [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
@@ -10586,6 +10396,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4335268" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4335269" />
   </programme>
+  <programme start="20260826040000 +0000" stop="20260826060000 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Stag. 2019 - DAZN 1</title>
+    <desc lang="it">DAZN 1.</desc>
+    <date>2019</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri Canali</category>
+    <icon src="https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&amp;sid=566.it" />
+    <country lang="it">ITA</country>
+  </programme>
   <programme start="20260826040000 +0200" stop="20260826080000 +0200" channel="Eurosport 2">
     <title>Eurosport 2</title>
     <desc>· Programa por determinar...</desc>
@@ -10734,6 +10553,13 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c9c7897e547346259d14496a7e671651/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c9c7897e547346259d14496a7e671651/version/0" />
   </programme>
+  <programme start="20260826060000 +0000" stop="20260826074700 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Parma - Cagliari</title>
+    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+  </programme>
   <programme start="20260826060000 +0200" stop="20260826100000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus</title>
     <desc>· Programa por determinar...</desc>
@@ -10752,13 +10578,6 @@
   <programme start="20260826060000 +0200" stop="20260826100000 +0200" channel="LaLiga TV Hypermotion 2">
     <title>LALIGA TV HYPERMOTION 2</title>
     <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20260826060000 +0200" stop="20260826080000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
   </programme>
   <programme start="20260826060000 +0200" stop="20260826100000 +0200" channel="Teledeporte">
     <title>Teledeporte</title>
@@ -10909,6 +10728,13 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4210990" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4210990" />
   </programme>
+  <programme start="20260826074700 +0000" stop="20260826082800 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Stag. 2026 - Here We Go: Storia di Fabrizio Romano</title>
+    <desc lang="it">Un'intervista con il punto di riferimento del calciomercato internazionale.</desc>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+  </programme>
   <programme start="20260826075500 +0000" stop="20260826092500 +0000" channel="PT | Sport TV +">
     <title>Manhã Informativa (Live) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 08:55[/COLOR]</title>
     <desc>[COLOR SlateBlue]Desporto,Notícias[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -10957,13 +10783,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4491589" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4491588" />
   </programme>
-  <programme start="20260826080000 +0200" stop="20260826150000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
-  </programme>
   <programme start="20260826080000 +0200" stop="20260826120000 +0200" channel="Real Madrid TV">
     <title>Real Madrid TV</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -10995,6 +10814,13 @@
 · El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2627068V4191012" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2627069H4191012" />
+  </programme>
+  <programme start="20260826082800 +0000" stop="20260826101400 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Atalanta - Sassuolo</title>
+    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
   </programme>
   <programme start="20260826083000 +0200" stop="20260826102000 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: Bodo/Glimt - NEC [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
@@ -11161,6 +10987,18 @@
     <title>Disfruta de DAZN en Movistar Plus</title>
     <desc>· Programa por determinar...</desc>
   </programme>
+  <programme start="20260826101400 +0000" stop="20260826105100 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Pierluigi Collina</title>
+    <desc lang="it">Gli intervistati vengono accompagnati in un viaggio interiore tra ferite, traumi, conti in sospeso, rinascite, segreti non detti. Nel quinto episodio l'ospite di Giorgia Rossi e' Pierluigi Collina.</desc>
+    <credits>
+      <presenter>Giorgia Rossi</presenter>
+    </credits>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
+    <country lang="it">ITA</country>
+  </programme>
   <programme start="20260826102000 +0000" stop="20260826105000 +0000" channel="PT | Sport TV 2">
     <title>The Sports Rundown (Magazine) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 11:20[/COLOR]</title>
     <desc>[COLOR SlateBlue]Magazine de desporto,Desporto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -11208,6 +11046,13 @@
 · Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4358189" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4358190" />
+  </programme>
+  <programme start="20260826105100 +0000" stop="20260826123700 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Frosinone - Juventus</title>
+    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
   </programme>
   <programme start="20260826105400 +0000" stop="20260826120000 +0000" channel="PT | Sport TV 3">
     <title>Sem Emissão [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 11:54[/COLOR]</title>
@@ -11394,6 +11239,19 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4373487" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4373488" />
   </programme>
+  <programme start="20260826123700 +0000" stop="20260826130900 +0000" channel="DAZN.1.it.it">
+    <title lang="it">My Skills 1 Marco Palestra - Stag. 1 Ep. 26 - Marco Palestra</title>
+    <desc lang="it">Scopriamo le skills dei calciatori di Serie A. Insieme al Profeta Hernanes, il protagonista del quinto episodio di questa stagione e' l'esterno del Cagliari e della Nazionale Italiana Marco Palestra!</desc>
+    <credits>
+      <presenter>Federico Balzaretti</presenter>
+    </credits>
+    <date>2021</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/83753a92-97f5-4528-ae11-f66fcc14af11/COVER_TITLE_TALL?territory=IT&amp;version=c5228275-a48c-3b9d-bb88-0a6ff2796f33&amp;w=600&amp;h=800&amp;md5ChecksumParam=c20acfc36e660406476d4a71693d3d79&amp;sid=566.it" />
+    <country lang="it">ITA</country>
+    <episode-num system="onscreen">S1 E26</episode-num>
+  </programme>
   <programme start="20260826124500 +0000" stop="20260826144500 +0000" channel="PT | Sport TV 2">
     <title>River Plate x Vélez: Campeonato da Argentina (Recorded) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]River Plate x Vélez[/COLOR]</title>
     <desc>[COLOR SlateBlue]Futebol,Desporto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -11460,6 +11318,15 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+  </programme>
+  <programme start="20260826130900 +0000" stop="20260826140000 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Bordocam Inter - Parma 2025/26</title>
+    <desc lang="it">Entriamo nella festa nerazzurra con Davide Bernardi e il BordoCam di Inter-Parma: rivivi la notte decisiva per il 21esimo Scudetto dei ragazzi di Chivu su DAZN con immagini esclusive da bordocampo.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/a740be49-73df-4d30-9f63-78ff2046c20d/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=2c03b357e8b0976f888abe8f44941d76&amp;sid=566.it" />
+    <country lang="it">ITA</country>
   </programme>
   <programme start="20260826131000 +0200" stop="20260826131500 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Ceuta - Las Palmas[/COLOR]</title>
@@ -11608,6 +11475,17 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488245" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4488247" />
   </programme>
+  <programme start="20260826140000 +0000" stop="20260826161600 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Europei F 2026 Francia - Italia</title>
+    <desc lang="it">Europei F: Francia - Italia. Fase a gironi - Il campionato europeo femminile di pallavolo 2026 si disputa dal 21 agosto al 6 settembre. Le prime quattro classificate di ogni girone accedono agli ottavi di finale.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Volley</category>
+    <icon src="https://guidatv.sky.it/uuid/a5c45c31-24da-4ac8-adba-3bb6f519d1cd/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=7d2d2694a0a525d46c2cf147e42d0d71&amp;sid=566.it" />
+    <country lang="it">SWE</country>
+    <episode-num system="onscreen">S2026 E4</episode-num>
+    <premiere />
+  </programme>
   <programme start="20260826140000 +0200" stop="20260826180000 +0200" channel="DAZN 2 HD">
     <title>Disfruta de DAZN en Movistar Plus</title>
     <desc>· Programa por determinar...</desc>
@@ -11740,13 +11618,6 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490805" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490806" />
-  </programme>
-  <programme start="20260826150000 +0200" stop="20260826205300 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
   </programme>
   <programme start="20260826151000 +0200" stop="20260826170500 +0200" channel="M+ LaLiga HD">
     <title>Jornada 2: Elche - FC Barcelona [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA EA SPORTS[/COLOR]</title>
@@ -11882,6 +11753,13 @@
 · Real Madrid TV -.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MREALMP1635667" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MREALMF1635667" />
+  </programme>
+  <programme start="20260826161600 +0000" stop="20260826180200 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Inter - Monza</title>
+    <desc lang="it">Serie A - 1a g. Ogni weekend una nuova storia. Ogni partita un'emozione da vivere fino all'ultimo minuto. La stagione 2026-27 di Serie A Enilive ti aspetta su DAZN.</desc>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/SportCalcio_Cover_JgZRMKTlp.png" />
   </programme>
   <programme start="20260826162000 +0200" stop="20260826171500 +0200" channel="La 2">
     <title>Espacios naturales espectaculares</title>
@@ -12114,6 +11992,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP651657" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
   </programme>
+  <programme start="20260826180200 +0000" stop="20260826184500 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Inter: Tutti i gol della stagione 25-26</title>
+    <desc lang="it">Rivivi la cavalcata nerazzurra dalla prima alla 38esima giornata, gol dopo gol.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/c756a5ac-0dc7-4a09-8f0d-847d295b6346/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=8cf8995491d82d7c08bab3343fa9170a&amp;sid=566.it" />
+    <country lang="it">ITA</country>
+  </programme>
   <programme start="20260826181000 +0200" stop="20260826183500 +0200" channel="DAZN 1 HD">
     <title>Premier Corner by Guiness 0,0 [COLOR tomato]T2025[/COLOR] [COLOR goldenrod]Santi Cazorla, magia en el Arsenal[/COLOR]</title>
     <desc>[COLOR SlateBlue]Entretenimiento,Entrevista[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
@@ -12160,6 +12047,17 @@
 [COLOR teal]· País:[/COLOR] Reino Unido</desc>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2e7b52b13c774966bd8783b76816c703/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2e7b52b13c774966bd8783b76816c703/version/0" />
+  </programme>
+  <programme start="20260826184500 +0000" stop="20260826223000 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Real Madrid - Real Sociedad</title>
+    <desc lang="it">Liga: Real Madrid - Real Sociedad. 1a g. - Dal trionfo in New Jersey al ritorno del calcio in Spagna: e' LaLiga EA Sports dei campioni del mondo.</desc>
+    <date>2026</date>
+    <category lang="it">Sport</category>
+    <category lang="it">Calcio</category>
+    <icon src="https://guidatv.sky.it/uuid/5beec375-2802-42f1-b099-0588317561be/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=d747a646bcbad9854fb238c814d0aaf7&amp;sid=566.it" />
+    <country lang="it">ESP</country>
+    <episode-num system="onscreen">S2026 E6</episode-num>
+    <premiere />
   </programme>
   <programme start="20260826185000 +0200" stop="20260826205300 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
@@ -12456,13 +12354,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4476530" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4476527" />
   </programme>
-  <programme start="20260826205300 +0200" stop="20260826230000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>DIRECTO Play-offs Clasificación: Viking - Dinamo Zagreb [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
-· La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
-  </programme>
   <programme start="20260826205300 +0200" stop="20260826230000 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Play-offs Clasificación: Olympique Lyon - Fenerbahçe [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -12667,6 +12558,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MLA2P4256943" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLA2F4256943" />
   </programme>
+  <programme start="20260826223000 +0000" stop="20260827040000 +0000" channel="DAZN.1.it.it">
+    <title lang="it">Stag. 2019 - DAZN 1</title>
+    <desc lang="it">DAZN 1.</desc>
+    <date>2019</date>
+    <category lang="it">Altri Programmi</category>
+    <category lang="it">Altri Canali</category>
+    <icon src="https://guidatv.sky.it/uuid/ef416285-a102-40e0-80a6-d4be94f81e66/cover?cgid=90&amp;territory=IT&amp;md5ChecksumParam=290baf03a80c7aec58d960086d34c9bc&amp;sid=566.it" />
+    <country lang="it">ITA</country>
+  </programme>
   <programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="PT | Sport TV +">
     <title>Últimas Notícias [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 23:30[/COLOR]</title>
     <desc>[COLOR SlateBlue]Desporto,Notícias[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -12737,13 +12637,6 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2642401V4357511" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2642394V4357511" />
-  </programme>
-  <programme start="20260826230000 +0200" stop="20260827060000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
   </programme>
   <programme start="20260826230000 +0200" stop="20260827000000 +0200" channel="M+ Liga de Campeones HD">
     <title>Universo Valdano [COLOR tomato]T9[/COLOR] [COLOR goldenrod]Ronald Araujo[/COLOR]</title>
@@ -13481,13 +13374,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490572" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490571" />
   </programme>
-  <programme start="20260827060000 +0200" stop="20260827080000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· M+ Liga de Campeones 2 -.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1858676V3152675" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M1908370V3152675" />
-  </programme>
   <programme start="20260827060000 +0200" stop="20260827100000 +0200" channel="Teledeporte">
     <title>Teledeporte</title>
     <desc>[COLOR SlateBlue]Información,Deportes[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -13658,10 +13544,6 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4491593" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4491592" />
-  </programme>
-  <programme start="20260827080000 +0200" stop="20260827200000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260827080000 +0200" stop="20260827120000 +0200" channel="Real Madrid TV">
     <title>Real Madrid TV</title>
@@ -14967,10 +14849,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495671" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4495673" />
   </programme>
-  <programme start="20260827200000 +0200" stop="20260828000000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
   <programme start="20260827200000 +0200" stop="20260827210000 +0200" channel="M+ Liga de Campeones HD">
     <title>Universo Valdano [COLOR tomato]T9[/COLOR] [COLOR goldenrod]Andrés Iniesta[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
@@ -15412,10 +15290,6 @@
 · Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2642378V4350368" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2642379H4350368" />
-  </programme>
-  <programme start="20260828000000 +0200" stop="20260828120000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260828000000 +0200" stop="20260828040000 +0200" channel="Real Madrid TV">
     <title>Real Madrid TV</title>
@@ -16569,10 +16443,6 @@
   </programme>
   <programme start="20260828120000 +0200" stop="20260829000000 +0200" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20260828120000 +0200" stop="20260829000000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260828120000 +0200" stop="20260828123000 +0200" channel="M+ Liga de Campeones HD">
@@ -17843,10 +17713,6 @@
     <title>M+ Deportes 3</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20260829000000 +0200" stop="20260829120000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
   <programme start="20260829000000 +0200" stop="20260829022000 +0200" channel="M+ Liga de Campeones HD">
     <title>Jornada 4: Al Nasser - Al Taauwon [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Liga Saudí[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
@@ -18767,10 +18633,6 @@
   </programme>
   <programme start="20260829120000 +0200" stop="20260830000000 +0200" channel="Eurosport 1 HD">
     <title>Eurosport 1</title>
-    <desc>· Programa por determinar...</desc>
-  </programme>
-  <programme start="20260829120000 +0200" stop="20260830000000 +0200" channel="M+ Liga de Campeones 2 HD">
-    <title>M+ Liga de Campeones 2</title>
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260829120000 +0200" stop="20260829160000 +0200" channel="Real Madrid TV">
