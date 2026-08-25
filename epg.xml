@@ -337,6 +337,14 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4625569.jpg" />
     <icon2 src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4367529.jpg" />
   </programme>
+  <programme start="20260825062700 +0200" stop="20260825065100 +0200" channel="Esport 3">
+    <title>E3 Noticies</title>
+    <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· L'espai ofereix les notícies més destacades de l'actualitat esportiva.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P3905799" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T3905799" />
+  </programme>
   <programme start="20260825063000 +0200" stop="20260825100000 +0200" channel="Gol">
     <title>Teletienda</title>
     <desc>[COLOR SlateBlue]Ocio y Aficiones,Televenta[/COLOR] | [COLOR cadetblue]2018[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -375,7 +383,7 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c9c7897e547346259d14496a7e671651/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c9c7897e547346259d14496a7e671651/version/0" />
   </programme>
-  <programme start="20260825065000 +0200" stop="20260825071000 +0200" channel="Esport 3">
+  <programme start="20260825065100 +0200" stop="20260825071000 +0200" channel="Esport 3">
     <title>3CatInfo Esports</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
@@ -415,7 +423,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4229760" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4229760" />
   </programme>
-  <programme start="20260825071000 +0200" stop="20260825084000 +0200" channel="Esport 3">
+  <programme start="20260825071000 +0200" stop="20260825084200 +0200" channel="Esport 3">
     <title>Onze</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
@@ -463,8 +471,8 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/32550b9756684c74a837dd9712480571/version/0" />
   </programme>
   <programme start="20260825080000 +0200" stop="20260825110000 +0200" channel="Eurosport 1 HD">
-    <title>DIRECTO Día 3 [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Abierto de Wuhan de snooker[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Abierto de Wuhan de snooker [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Día 3[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 [COLOR teal]· País:[/COLOR] China</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4386476" />
@@ -483,7 +491,7 @@
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260825080000 +0200" stop="20260825100000 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Córdoba - Girona[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Córdoba CF - Girona FC[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -514,7 +522,7 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3525a91043bc4088b0e9edb2dcab1c8f/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3525a91043bc4088b0e9edb2dcab1c8f/version/0" />
   </programme>
-  <programme start="20260825084000 +0200" stop="20260825100000 +0200" channel="Esport 3">
+  <programme start="20260825084200 +0200" stop="20260825100300 +0200" channel="Esport 3">
     <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · Emissió d'una transmissió esportiva.</desc>
@@ -535,7 +543,7 @@
   </programme>
   <programme start="20260825090000 +0200" stop="20260825110000 +0200" channel="Eurosport 2">
     <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 3 - Gruissan - Aude - Font Romeu[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -599,16 +607,6 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9207dddb299542539770ad682b257b50/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/9207dddb299542539770ad682b257b50/version/0" />
   </programme>
-  <programme start="20260825100000 +0200" stop="20260825105300 +0200" channel="Esport 3">
-    <title>Katalonski [COLOR tomato]T2[/COLOR] [COLOR goldenrod]Sao Paulo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Ocio y Aficiones,Espectáculo[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
-· Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Halldor Mar.
-[COLOR teal]· Productora:[/COLOR] Televisió de Catalunya (TV3), La Lupa Produccions, Broadcaster Audiovisual services.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1727976" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1727976" />
-  </programme>
   <programme start="20260825100000 +0200" stop="20260825101500 +0200" channel="Gol">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Celta - Andorra[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
@@ -624,6 +622,16 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+  </programme>
+  <programme start="20260825100300 +0200" stop="20260825105800 +0200" channel="Esport 3">
+    <title>Katalonski [COLOR tomato]T2[/COLOR] [COLOR goldenrod]Sao Paulo[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Ocio y Aficiones,Espectáculo[/COLOR] | [COLOR cadetblue]2019[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+· Halldor Mar anirà a Sao Paulo en plena celebració del carnaval. Thaisa Bestetti el convidarà a la seva escola de samba, la Vai-Vai, i aniran al sambòdrom per veure aquesta festa monumental.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Presenta:[/COLOR] Halldor Mar.
+[COLOR teal]· Productora:[/COLOR] Televisió de Catalunya (TV3), La Lupa Produccions, Broadcaster Audiovisual services.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1727976" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1727976" />
   </programme>
   <programme start="20260825100500 +0200" stop="20260825101000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: R. Oviedo - Leganés[/COLOR]</title>
@@ -650,7 +658,7 @@
   </programme>
   <programme start="20260825101500 +0200" stop="20260825103000 +0200" channel="Gol">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -748,7 +756,7 @@
   </programme>
   <programme start="20260825104500 +0200" stop="20260825110000 +0200" channel="Gol">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -772,22 +780,11 @@
   </programme>
   <programme start="20260825105100 +0200" stop="20260825110000 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
-  </programme>
-  <programme start="20260825105300 +0200" stop="20260825114000 +0200" channel="Esport 3">
-    <title>Cosins germans</title>
-    <desc>[COLOR SlateBlue]Cultural/Educativo,Programa cultural[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· Sílvia Bel, Araceli Segarra, Llucia Ramis i Elisabet Carnicé aniran de festa en festa, buscant les arrels de la cultura popular. Una experiència inoblidable menys per Ferran Torrent, enemic de les aglomeracions, els balls i les disfresses.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Presenta:[/COLOR] Silvia Bel, Elisabet Carnicé, Llúcia Ramis, Araceli Segarra.
-[COLOR teal]· Dirección:[/COLOR] Vicent Peris.
-[COLOR teal]· Productora:[/COLOR] Televisió de Catalunya (TV3), Barret Films.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1305366" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1305366" />
   </programme>
   <programme start="20260825105400 +0200" stop="20260825110700 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Albacete - Real Sociedad B[/COLOR]</title>
@@ -804,6 +801,17 @@
 [COLOR teal]· País:[/COLOR] Portugal</desc>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2388120dafc746fbba671ee9215cb60d/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2388120dafc746fbba671ee9215cb60d/version/0" />
+  </programme>
+  <programme start="20260825105800 +0200" stop="20260825114500 +0200" channel="Esport 3">
+    <title>Cosins germans</title>
+    <desc>[COLOR SlateBlue]Cultural/Educativo,Programa cultural[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Sílvia Bel, Araceli Segarra, Llucia Ramis i Elisabet Carnicé aniran de festa en festa, buscant les arrels de la cultura popular. Una experiència inoblidable menys per Ferran Torrent, enemic de les aglomeracions, els balls i les disfresses.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Presenta:[/COLOR] Silvia Bel, Elisabet Carnicé, Llúcia Ramis, Araceli Segarra.
+[COLOR teal]· Dirección:[/COLOR] Vicent Peris.
+[COLOR teal]· Productora:[/COLOR] Televisió de Catalunya (TV3), Barret Films.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1305366" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1305366" />
   </programme>
   <programme start="20260825110000 +0200" stop="20260825120000 +0200" channel="Eurosport 1 HD">
     <title>Fórmula E - ePrix de Miami [COLOR tomato]T25/26[/COLOR] [COLOR goldenrod]Resumen[/COLOR]</title>
@@ -877,7 +885,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
-  <programme start="20260825114000 +0200" stop="20260825121200 +0200" channel="Esport 3">
+  <programme start="20260825114300 +0200" stop="20260825115600 +0200" channel="Teledeporte">
+    <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Castellón - Sabadell[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
+  </programme>
+  <programme start="20260825114500 +0200" stop="20260825121800 +0200" channel="Esport 3">
     <title>GR Pirineus: Tàndem a la pallaresa</title>
     <desc>[COLOR SlateBlue]Documentales,Viajes[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
 · Seguim al Pallars Sobirà, aquest cop per fer-ne la part nord.
@@ -887,14 +903,6 @@
 [COLOR teal]· Productora:[/COLOR] TVC Televisió de Catalunya, La Quimera, Cactus Produccions.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1312092" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1312092" />
-  </programme>
-  <programme start="20260825114300 +0200" stop="20260825115600 +0200" channel="Teledeporte">
-    <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Castellón - Sabadell[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
-· El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
   <programme start="20260825114600 +0000" stop="20260825115900 +0000" channel="PT | Sport TV 3">
     <title>Sem Emissão [COLOR tomato]T1[/COLOR] [COLOR goldenrod]ter 25-ago, 12:46[/COLOR]</title>
@@ -974,14 +982,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4479195" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4479193" />
   </programme>
-  <programme start="20260825121200 +0200" stop="20260825123000 +0200" channel="Esport 3">
-    <title>Pastors i ramats: un món que se'n va [COLOR goldenrod]Ernest Sitjes[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Documentales,Naturaleza[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· Aquesta exposició, que ofereix l'Associació Camí Ramader de Marina, sorgeix de les converses amb pastores i pastors que treuen a pasturar els seus ramats per diferents indrets de Catalunya.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P3326921" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T3326921" />
-  </programme>
   <programme start="20260825121500 +0200" stop="20260825123000 +0200" channel="Gol">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
@@ -989,6 +989,14 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+  </programme>
+  <programme start="20260825121800 +0200" stop="20260825123400 +0200" channel="Esport 3">
+    <title>Pastors i ramats: un món que se'n va [COLOR goldenrod]Ernest Sitjes[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Documentales,Naturaleza[/COLOR] | [COLOR cadetblue]2022[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Aquesta exposició, que ofereix l'Associació Camí Ramader de Marina, sorgeix de les converses amb pastores i pastors que treuen a pasturar els seus ramats per diferents indrets de Catalunya.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P3326921" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T3326921" />
   </programme>
   <programme start="20260825122000 +0200" stop="20260825123200 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Rayo - Alavés[/COLOR]</title>
@@ -998,17 +1006,9 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
   </programme>
-  <programme start="20260825123000 +0200" stop="20260825140000 +0200" channel="Esport 3">
-    <title>Onze</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4214399" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4214399" />
-  </programme>
   <programme start="20260825123000 +0200" stop="20260825124500 +0200" channel="Gol">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -1022,6 +1022,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4451580" />
   </programme>
+  <programme start="20260825123400 +0200" stop="20260825140400 +0200" channel="Esport 3">
+    <title>Onze</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4214399" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4214399" />
+  </programme>
   <programme start="20260825124400 +0200" stop="20260825125600 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Athletic - Sevilla[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
@@ -1032,7 +1040,7 @@
   </programme>
   <programme start="20260825124500 +0200" stop="20260825130000 +0200" channel="Gol">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -1096,7 +1104,7 @@
   </programme>
   <programme start="20260825130000 +0200" stop="20260825150000 +0200" channel="Gol">
     <title>Liga BBVA [COLOR tomato]T13/14[/COLOR] [COLOR goldenrod]Jornada 38: Barcelona - At. Madrid[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★7.2/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR]
 · Recordamos el partidazo que decidió el campeón de la Liga de la temporada 13/14. Tanto Barcelona, segundo con 86 puntos, como Atlético de Madrid, líder con 89, dependían de sí mismos para ser campeones en la última jornada de la Liga.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3821097" />
@@ -1136,15 +1144,15 @@
   </programme>
   <programme start="20260825133000 +0200" stop="20260825143000 +0200" channel="Eurosport 1 HD">
     <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 3 - Gruissan - Aude - Font Romeu[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4495973" />
   </programme>
   <programme start="20260825133000 +0200" stop="20260825163000 +0200" channel="Eurosport 2">
-    <title>Día 3 [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Abierto de Wuhan de snooker[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Abierto de Wuhan de snooker [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Día 3[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 [COLOR teal]· País:[/COLOR] China</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4386476" />
@@ -1193,7 +1201,7 @@
   </programme>
   <programme start="20260825135600 +0200" stop="20260825140800 +0200" channel="Teledeporte">
     <title>Resúmenes DAZN LaLiga EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -1214,14 +1222,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
-  <programme start="20260825140000 +0200" stop="20260825143500 +0200" channel="Esport 3">
-    <title>Zona Zàping Club</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
-· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVCP4358722" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVCF4358722" />
-  </programme>
   <programme start="20260825140200 +0000" stop="20260825145500 +0000" channel="PT | Sport TV +">
     <title>Taça Sul-Americana [COLOR tomato]T1[/COLOR] [COLOR goldenrod]ter 25-ago, 15:02[/COLOR]</title>
     <desc>[COLOR SlateBlue]Magazine de desporto,Desporto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -1229,9 +1229,17 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/7d6113e6f5f2454390584339d9e9782e/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/7d6113e6f5f2454390584339d9e9782e/version/0" />
   </programme>
+  <programme start="20260825140400 +0200" stop="20260825143700 +0200" channel="Esport 3">
+    <title>Zona Zàping Club</title>
+    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVCP4358722" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVCF4358722" />
+  </programme>
   <programme start="20260825140800 +0200" stop="20260825142000 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -1246,7 +1254,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
   <programme start="20260825142000 +0200" stop="20260825142500 +0200" channel="Teledeporte">
-    <title>DIRECTO Martes 25 agosto [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Estadio 2.0[/COLOR]</title>
+    <title>Estadio 2.0 [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Martes 25 agosto[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
 · TDP reinventa uno de los clásicos de TVE. Este contenedor incluye resúmenes de los acontecimientos deportivos más relevantes de la semana, retransmisiones en directo o grabadas, y entrevistas. En este espacio tienen cabida todos los deportes.
 [COLOR teal]· País:[/COLOR] España
@@ -1262,8 +1270,8 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/c1735e5eb8d04b96956ee72b962e8d9e/version/0" />
   </programme>
   <programme start="20260825142500 +0200" stop="20260825155000 +0200" channel="Teledeporte">
-    <title>DIRECTO Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -1271,21 +1279,21 @@
   </programme>
   <programme start="20260825143000 +0200" stop="20260825144500 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
   <programme start="20260825143000 +0200" stop="20260825173000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4495973" />
   </programme>
-  <programme start="20260825143500 +0200" stop="20260825150000 +0200" channel="Esport 3">
+  <programme start="20260825143700 +0200" stop="20260825150100 +0200" channel="Esport 3">
     <title>E3 Noticies</title>
     <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · L'espai ofereix les notícies més destacades de l'actualitat esportiva.
@@ -1326,7 +1334,7 @@
   </programme>
   <programme start="20260825145600 +0200" stop="20260825155300 +0200" channel="M+ Vamos HD">
     <title>El Camp Nou: bienvenidos al estadio</title>
-    <desc>[COLOR SlateBlue]Documentales,Deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Documentales,Deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
 · "Camp Nou: Bienvenidos al estadio" retrata una etapa singular en la historia del FC Barcelona: lejos de su hogar y enfrentando no solo los desafíos deportivos habituales, sino también los derivados de la construcción de su nuevo estadio.
 [COLOR teal]· País:[/COLOR] España
 [COLOR teal]· Dirección:[/COLOR] Juanma Arizmendi.</desc>
@@ -1349,7 +1357,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490801" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490802" />
   </programme>
-  <programme start="20260825150000 +0200" stop="20260825152800 +0200" channel="Esport 3">
+  <programme start="20260825150000 +0200" stop="20260825151500 +0200" channel="Gol">
+    <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+  </programme>
+  <programme start="20260825150100 +0200" stop="20260825153100 +0200" channel="Esport 3">
     <title>GR Barcelona [COLOR tomato]T1[/COLOR] [COLOR goldenrod]La gran quadrícula[/COLOR]</title>
     <desc>[COLOR SlateBlue]Ocio y Aficiones,Viajes[/COLOR] | [COLOR cadetblue]2014[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · L'Eixample és, sens dubte, un dels projectes urbanístics més coneguts a tot el món.
@@ -1360,17 +1376,9 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P2076159" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T2076159" />
   </programme>
-  <programme start="20260825150000 +0200" stop="20260825151500 +0200" channel="Gol">
-    <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
-  </programme>
   <programme start="20260825151500 +0200" stop="20260825153000 +0200" channel="Gol">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -1384,19 +1392,9 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ebf796fe6a164920a2485513219ad1c4/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ebf796fe6a164920a2485513219ad1c4/version/0" />
   </programme>
-  <programme start="20260825152800 +0200" stop="20260825162000 +0200" channel="Esport 3">
-    <title>Els quaderns de cuina de la Julie</title>
-    <desc>[COLOR SlateBlue]Ocio y Aficiones,Cocina[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· La cuinera Julie Andrieu recorre França de dalt a baix per descobrir la història de les diferents regions del país gal a travès de receptes típiques i ancestrals que li permetran comprendre'n més bé les especificitats i la riquesa del territori.
-[COLOR teal]· País:[/COLOR] Francia
-[COLOR teal]· Presenta:[/COLOR] Julie Andrieu.
-[COLOR teal]· Productora:[/COLOR] Troisième Oeil Productions, France 3, JA Productions.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1469335" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1469335" />
-  </programme>
   <programme start="20260825153000 +0200" stop="20260825154500 +0200" channel="Gol">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -1418,6 +1416,16 @@
     <icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/VERTICAL/VERTICAL_4625569.jpg" />
     <icon2 src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4367811.jpg" />
   </programme>
+  <programme start="20260825153100 +0200" stop="20260825162300 +0200" channel="Esport 3">
+    <title>Els quaderns de cuina de la Julie</title>
+    <desc>[COLOR SlateBlue]Ocio y Aficiones,Cocina[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· La cuinera Julie Andrieu recorre França de dalt a baix per descobrir la història de les diferents regions del país gal a travès de receptes típiques i ancestrals que li permetran comprendre'n més bé les especificitats i la riquesa del territori.
+[COLOR teal]· País:[/COLOR] Francia
+[COLOR teal]· Presenta:[/COLOR] Julie Andrieu.
+[COLOR teal]· Productora:[/COLOR] Troisième Oeil Productions, France 3, JA Productions.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1469335" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1469335" />
+  </programme>
   <programme start="20260825154500 +0200" stop="20260825170000 +0200" channel="Gol">
     <title>Reaction Sports [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Junio[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
@@ -1435,7 +1443,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4488247" />
   </programme>
   <programme start="20260825155000 +0200" stop="20260825162000 +0200" channel="Teledeporte">
-    <title>Martes 25 agosto [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Estadio 2.0[/COLOR]</title>
+    <title>Estadio 2.0 [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Martes 25 agosto[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
 · TDP reinventa uno de los clásicos de TVE. Este contenedor incluye resúmenes de los acontecimientos deportivos más relevantes de la semana, retransmisiones en directo o grabadas, y entrevistas. En este espacio tienen cabida todos los deportes.
 [COLOR teal]· País:[/COLOR] España
@@ -1477,7 +1485,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4357045" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4357047" />
   </programme>
-  <programme start="20260825162000 +0200" stop="20260825171400 +0200" channel="Esport 3">
+  <programme start="20260825162000 +0200" stop="20260825162500 +0200" channel="Teledeporte">
+    <title>Informativo Deportes 24H</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· Informativo Deportes 24H.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP3903037" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
+  </programme>
+  <programme start="20260825162300 +0200" stop="20260825171600 +0200" channel="Esport 3">
     <title>Els quaderns de cuina de la Julie</title>
     <desc>[COLOR SlateBlue]Ocio y Aficiones,Cocina[/COLOR] | [COLOR cadetblue]2013[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · La cuinera Julie Andrieu recorre França de dalt a baix per descobrir la història de les diferents regions del país gal a travès de receptes típiques i ancestrals que li permetran comprendre'n més bé les especificitats i la riquesa del territori.
@@ -1487,17 +1503,9 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1469335" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1469335" />
   </programme>
-  <programme start="20260825162000 +0200" stop="20260825162500 +0200" channel="Teledeporte">
-    <title>Informativo Deportes 24H</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· Informativo Deportes 24H.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP3903037" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF3903037" />
-  </programme>
   <programme start="20260825162500 +0200" stop="20260825182000 +0200" channel="Teledeporte">
-    <title>DIRECTO Países Bajos - España [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Campeonato Europeo de Voleibol Femenino[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Voleibol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <title>Campeonato Europeo de Voleibol Femenino [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Países Bajos - España[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Voleibol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El Campeonato Europeo de Voleibol Femenino se celebra del 21 de agosto al 6 de septiembre de 2026. Un total de 24 selecciones nacionales afiliadas a la CEV compiten por el título de campeón europeo, cuyo actual portador es el equipo de Turquía.
 [COLOR teal]· País:[/COLOR] Azerbayan, República Checa y Suecia</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP4386511" />
@@ -1592,7 +1600,15 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4491575" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4491574" />
   </programme>
-  <programme start="20260825171400 +0200" stop="20260825180400 +0200" channel="Esport 3">
+  <programme start="20260825171500 +0200" stop="20260825173000 +0200" channel="Gol">
+    <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
+  </programme>
+  <programme start="20260825171600 +0200" stop="20260825180500 +0200" channel="Esport 3">
     <title>Gent de món [COLOR tomato]T2[/COLOR] [COLOR goldenrod]Mediterrani occidental 2[/COLOR]</title>
     <desc>[COLOR SlateBlue]Entretenimiento[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · Avui comencem a Florència i continuarem per Roma.
@@ -1600,14 +1616,6 @@
 [COLOR teal]· Productora:[/COLOR] Televisió de Catalunya (TV3), Lironda Films, BCN Play.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1320921" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1320921" />
-  </programme>
-  <programme start="20260825171500 +0200" stop="20260825173000 +0200" channel="Gol">
-    <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
-· El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
   </programme>
   <programme start="20260825172300 +0000" stop="20260825175300 +0000" channel="PT | Sport TV +">
     <title>Jogar em Casa [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Vasco Matos - Treinador Estoril Praia[/COLOR]</title>
@@ -1627,7 +1635,7 @@
   </programme>
   <programme start="20260825173000 +0200" stop="20260825174500 +0200" channel="Gol">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -1682,7 +1690,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MGOLP4384309" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4384309" />
   </programme>
-  <programme start="20260825180400 +0200" stop="20260825190000 +0200" channel="Esport 3">
+  <programme start="20260825180500 +0200" stop="20260825190000 +0200" channel="Esport 3">
     <title>Catalunya Experience: Robert Englund</title>
     <desc>[COLOR SlateBlue]Documentales,Viajes[/COLOR] | [COLOR cadetblue]2016[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · Episodi protagonitzat per l'actor de Hollywood Robert Englund.
@@ -1701,7 +1709,7 @@
   </programme>
   <programme start="20260825182000 +0200" stop="20260825183300 +0200" channel="Teledeporte">
     <title>Resúmenes DAZN LaLiga EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -1729,7 +1737,7 @@
   </programme>
   <programme start="20260825183300 +0200" stop="20260825184500 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -1753,7 +1761,7 @@
   </programme>
   <programme start="20260825184500 +0200" stop="20260825185700 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -1959,7 +1967,7 @@
   </programme>
   <programme start="20260825194900 +0200" stop="20260825195700 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -1990,16 +1998,16 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
   <programme start="20260825200000 +0200" stop="20260825220000 +0200" channel="Eurosport 1 HD">
-    <title>Día 3 [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Abierto de Wuhan de snooker[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Abierto de Wuhan de snooker [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Día 3[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 [COLOR teal]· País:[/COLOR] China</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4386476" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4386476" />
   </programme>
   <programme start="20260825200000 +0200" stop="20260825220000 +0200" channel="Eurosport 2">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2045,7 +2053,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490769" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490770" />
   </programme>
-  <programme start="20260825203000 +0200" stop="20260825210000 +0200" channel="Esport 3">
+  <programme start="20260825203000 +0200" stop="20260825210200 +0200" channel="Esport 3">
     <title>Crackòvia</title>
     <desc>[COLOR SlateBlue]Entretenimiento,Humor[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR magenta]⑦[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · Programa d'humor que tracta l'actualitat esportiva a través de gags i imitacions.
@@ -2058,7 +2066,7 @@
   </programme>
   <programme start="20260825203000 +0200" stop="20260825205300 +0200" channel="M+ Liga de Campeones HD">
     <title>Especiales UEFA Champions League [COLOR tomato]T24/25[/COLOR] [COLOR goldenrod]Película oficial UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Reportajes sobre la actualidad de la UEFA Champions League.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2299537V4045099" />
@@ -2106,7 +2114,7 @@
   </programme>
   <programme start="20260825205300 +0200" stop="20260825230000 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · PLayoff UCL choque de vuelta. El 3-0 de la ida a favor de los escoceses da un margen de maniobra muy amplio a los de Martin O'Neill. El equipo austriaco necesita un milagro en el Raiffeisen Arena de Linz si quiere acceder a la fase liga de la UCL.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
@@ -2115,14 +2123,6 @@
     <title>Sem Emissão</title>
     <desc>[COLOR SlateBlue]Desporto[/COLOR] | m3</desc>
     <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F78bacd0c159749c2acd5e8e66c360319&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI" />
-  </programme>
-  <programme start="20260825210000 +0200" stop="20260825211500 +0200" channel="Esport 3">
-    <title>Zona UFEC</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· Programa de reportatges sobre l'actualitat esportiva catalana i els seus protagonistes.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P964617" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T964617" />
   </programme>
   <programme start="20260825210000 +0200" stop="20260825230000 +0200" channel="Gol">
     <title>Liga BBVA [COLOR tomato]T13/14[/COLOR] [COLOR goldenrod]Jornada 29: Real Madrid - Barcelona[/COLOR]</title>
@@ -2133,8 +2133,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLT1775236" />
   </programme>
   <programme start="20260825210000 +0200" stop="20260825212500 +0200" channel="Teledeporte">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2147,7 +2147,15 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/94258306e3c64d598031f75bb93744db/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/94258306e3c64d598031f75bb93744db/version/0" />
   </programme>
-  <programme start="20260825211500 +0200" stop="20260825223000 +0200" channel="Esport 3">
+  <programme start="20260825210200 +0200" stop="20260825211500 +0200" channel="Esport 3">
+    <title>Zona UFEC</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2011[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Programa de reportatges sobre l'actualitat esportiva catalana i els seus protagonistes.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P964617" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T964617" />
+  </programme>
+  <programme start="20260825211500 +0200" stop="20260825222900 +0200" channel="Esport 3">
     <title>Tot Costa</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Jordi Costa i Sònia Gelmà analitzen de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.
@@ -2165,7 +2173,7 @@
   </programme>
   <programme start="20260825212500 +0200" stop="20260825213700 +0200" channel="Teledeporte">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -2180,7 +2188,7 @@
   </programme>
   <programme start="20260825213700 +0200" stop="20260825214900 +0200" channel="Teledeporte">
     <title>Resúmenes DAZN LaLiga EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -2202,8 +2210,8 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/51892a44a42e415a94c8fb81947ce64a/version/0" />
   </programme>
   <programme start="20260825220000 +0200" stop="20260826000000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2211,7 +2219,7 @@
   </programme>
   <programme start="20260825220000 +0200" stop="20260825230000 +0200" channel="Eurosport 2">
     <title>Hard Knocks: In Season with the NFC East [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Hard Knocks: Campamento de Entrenamiento con Los Seattle Seahawks[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Telerrealidad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Entretenimiento,Telerrealidad[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.4/10[/COLOR]
 · HBO Sports y NFL Films se unen para un acceso total al campo de entrenamiento de los Seattle Seahawks, campeones de la Super Bowl.
 [COLOR teal]· País:[/COLOR] Estados Unidos
 [COLOR teal]· Productora:[/COLOR] NFL Films, HBO Sports.</desc>
@@ -2258,7 +2266,7 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/1aac7a2a5b854d8aa4ecdbc0a7a485f2/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/1aac7a2a5b854d8aa4ecdbc0a7a485f2/version/0" />
   </programme>
-  <programme start="20260825223000 +0200" stop="20260825230000 +0200" channel="Esport 3">
+  <programme start="20260825222900 +0200" stop="20260825230000 +0200" channel="Esport 3">
     <title>Zona Zàping Club</title>
     <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
 · Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
@@ -2321,7 +2329,7 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4acfde53c92f4bc6a06b68c8275631ba/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/4acfde53c92f4bc6a06b68c8275631ba/version/0" />
   </programme>
-  <programme start="20260825230000 +0200" stop="20260826003000 +0200" channel="Esport 3">
+  <programme start="20260825230000 +0200" stop="20260826003100 +0200" channel="Esport 3">
     <title>Onze</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
@@ -2330,8 +2338,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4214399" />
   </programme>
   <programme start="20260825230000 +0200" stop="20260826000000 +0200" channel="Eurosport 2">
-    <title>Día 3 [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Abierto de Wuhan de snooker[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>Abierto de Wuhan de snooker [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Día 3[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El circuito profesional de snooker hace parada en China. La ciudad de Wuhan acoge el abierto de esta modalidad de billar del 23 al 29 de agosto.
 [COLOR teal]· País:[/COLOR] China</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4386476" />
@@ -2472,7 +2480,7 @@
   </programme>
   <programme start="20260825234500 +0200" stop="20260826000000 +0200" channel="Gol">
     <title>Resúmenes LALIGA EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Málaga - Deportivo[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
@@ -2495,8 +2503,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4385114" />
   </programme>
   <programme start="20260826000000 +0200" stop="20260826013000 +0200" channel="Eurosport 2">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2576,7 +2584,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4489808" />
   </programme>
-  <programme start="20260826003000 +0200" stop="20260826005000 +0200" channel="Esport 3">
+  <programme start="20260826003100 +0200" stop="20260826005200 +0200" channel="Esport 3">
     <title>3CatInfo Esports</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
@@ -2607,20 +2615,20 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MGOLP4077348" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4077348" />
   </programme>
-  <programme start="20260826005000 +0200" stop="20260826022000 +0200" channel="Esport 3">
-    <title>Onze</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4214399" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4214399" />
-  </programme>
   <programme start="20260826005000 +0200" stop="20260826024000 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: Bodo/Glimt - NEC [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Solo uno de los dos podrá estar la próxima temporada en la Champions League. Bodo tiene ventaja tras ganar en la ida 3-1, pero los holandeses tiene calidad suficiente para intentar darle la vuelta.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
+  </programme>
+  <programme start="20260826005200 +0200" stop="20260826022300 +0200" channel="Esport 3">
+    <title>Onze</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Programa d'esports que repassa l'actualitat del futbol i la lliga. Al programa s'hi veuran gols, però hi haurà molt més: entrevistes, tertúlies, reportatges curiosos, informació i humor.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4214399" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4214399" />
   </programme>
   <programme start="20260826005400 +0000" stop="20260826025400 +0000" channel="PT | Sport TV 3">
     <title>Sem Emissão [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 01:54[/COLOR]</title>
@@ -2662,8 +2670,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4069261" />
   </programme>
   <programme start="20260826013000 +0200" stop="20260826030000 +0200" channel="Eurosport 1 HD">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2703,14 +2711,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4310633" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP2F4310633" />
   </programme>
-  <programme start="20260826022000 +0200" stop="20260826024000 +0200" channel="Esport 3">
-    <title>3CatInfo Esports</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4127942" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2350885H4127942" />
-  </programme>
   <programme start="20260826022000 +0200" stop="20260826023000 +0200" channel="Gol">
     <title>Boxeo: combate Frazier vs Stander</title>
     <desc>[COLOR SlateBlue]Deportes,Boxeo[/COLOR] | [COLOR cadetblue]1972[/COLOR] | [COLOR red]⑱[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
@@ -2718,6 +2718,14 @@
 [COLOR teal]· País:[/COLOR] Estados Unidos</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MGOLP4061729" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLF4061729" />
+  </programme>
+  <programme start="20260826022300 +0200" stop="20260826024400 +0200" channel="Esport 3">
+    <title>3CatInfo Esports</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4127942" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2350885H4127942" />
   </programme>
   <programme start="20260826023000 +0200" stop="20260826063000 +0200" channel="Gol">
     <title>Teletienda</title>
@@ -2738,20 +2746,20 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ce7a829116b24b1891e94a67bde1358c/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/ce7a829116b24b1891e94a67bde1358c/version/0" />
   </programme>
-  <programme start="20260826024000 +0200" stop="20260826041000 +0200" channel="Esport 3">
+  <programme start="20260826024000 +0200" stop="20260826043000 +0200" channel="M+ Liga de Campeones HD">
+    <title>Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· PLayoff UCL choque de vuelta. El 3-0 de la ida a favor de los escoceses da un margen de maniobra muy amplio a los de Martin O'Neill. El equipo austriaco necesita un milagro en el Raiffeisen Arena de Linz si quiere acceder a la fase liga de la UCL.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
+  </programme>
+  <programme start="20260826024400 +0200" stop="20260826041500 +0200" channel="Esport 3">
     <title>Tot Costa</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Jordi Costa i Sònia Gelmà analitzen de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4109110" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4109110" />
-  </programme>
-  <programme start="20260826024000 +0200" stop="20260826043000 +0200" channel="M+ Liga de Campeones HD">
-    <title>Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· PLayoff UCL choque de vuelta. El 3-0 de la ida a favor de los escoceses da un margen de maniobra muy amplio a los de Martin O'Neill. El equipo austriaco necesita un milagro en el Raiffeisen Arena de Linz si quiere acceder a la fase liga de la UCL.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
   </programme>
   <programme start="20260826024500 +0000" stop="20260826031500 +0000" channel="PT | Sport TV 2">
     <title>Inside Sailing (Magazine) [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 03:45[/COLOR]</title>
@@ -2783,8 +2791,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F3703690" />
   </programme>
   <programme start="20260826025500 +0200" stop="20260826045000 +0200" channel="Teledeporte">
-    <title>Países Bajos - España [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Campeonato Europeo de Voleibol Femenino[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Voleibol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
+    <title>Campeonato Europeo de Voleibol Femenino [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Países Bajos - España[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Voleibol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · El Campeonato Europeo de Voleibol Femenino se celebra del 21 de agosto al 6 de septiembre de 2026. Un total de 24 selecciones nacionales afiliadas a la CEV compiten por el título de campeón europeo, cuyo actual portador es el equipo de Turquía.
 [COLOR teal]· País:[/COLOR] Azerbayan, República Checa y Suecia</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP4386511" />
@@ -2799,8 +2807,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4466934" />
   </programme>
   <programme start="20260826030000 +0200" stop="20260826040000 +0200" channel="Eurosport 2">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -2861,20 +2869,13 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/1feddb2fd21b4477962e2082cbaa17ab/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/1feddb2fd21b4477962e2082cbaa17ab/version/0" />
   </programme>
-  <programme start="20260826041000 +0200" stop="20260826043000 +0200" channel="Esport 3">
+  <programme start="20260826041500 +0200" stop="20260826043600 +0200" channel="Esport 3">
     <title>3CatInfo Esports</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4127942" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2350885H4127942" />
-  </programme>
-  <programme start="20260826043000 +0200" stop="20260826055000 +0200" channel="Esport 3">
-    <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
-· Emissió d'una transmissió esportiva.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4386218" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4386218" />
   </programme>
   <programme start="20260826043000 +0200" stop="20260826063000 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: Sabah - Hapoel Beer-Sheva [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
@@ -2890,8 +2891,15 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/aa196e0d5f024b93a695ac91429e8e82/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/aa196e0d5f024b93a695ac91429e8e82/version/0" />
   </programme>
+  <programme start="20260826043600 +0200" stop="20260826055000 +0200" channel="Esport 3">
+    <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· Emissió d'una transmissió esportiva.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4386218" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4386218" />
+  </programme>
   <programme start="20260826044500 +0200" stop="20260826064500 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Córdoba - Girona[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Córdoba CF - Girona FC[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -2899,8 +2907,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4491572" />
   </programme>
   <programme start="20260826045000 +0200" stop="20260826060000 +0200" channel="Teledeporte">
-    <title>Etapa 4 - Andorra la Vella - Andorra la Vella [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]La Vuelta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
+    <title>La Vuelta [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Etapa 4 - Andorra la Vella - Andorra la Vella[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Ciclismo[/COLOR] | [COLOR cadetblue]2026[/COLOR]
 · España alberga la última gran ronda por etapas del calendario ciclista, la Vuelta.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495972" />
@@ -3110,7 +3118,7 @@
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260826080000 +0200" stop="20260826095000 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Tenerife - Almería[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: CD Tenerife - UD Almería[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -3554,7 +3562,7 @@
   </programme>
   <programme start="20260826133600 +0200" stop="20260826134500 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -3711,7 +3719,7 @@
   </programme>
   <programme start="20260826152500 +0200" stop="20260826173000 +0200" channel="M+ Vamos HD">
     <title>Dobles Mixtos: Williams/Alcaraz - Routliffe/Glasspool [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]US Open[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Tenis[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Tenis[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
 · Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.
 [COLOR teal]· País:[/COLOR] &lt;span&gt;Carlos Alcaraz&lt;/span&gt;, &lt;span&gt;Serena Williams&lt;/span&gt;</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4497095" />
@@ -3961,7 +3969,7 @@
   </programme>
   <programme start="20260826185000 +0200" stop="20260826205300 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · PLayoff UCL choque de vuelta. El 3-0 de la ida a favor de los escoceses da un margen de maniobra muy amplio a los de Martin O'Neill. El equipo austriaco necesita un milagro en el Raiffeisen Arena de Linz si quiere acceder a la fase liga de la UCL.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
@@ -4113,7 +4121,7 @@
   </programme>
   <programme start="20260826194600 +0200" stop="20260826195500 +0200" channel="M+ LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -4242,7 +4250,7 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P1368746" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1368746" />
   </programme>
-  <programme start="20260826212500 +0200" stop="20260826223000 +0200" channel="Esport 3">
+  <programme start="20260826212500 +0200" stop="20260826215500 +0200" channel="Esport 3">
     <title>Tot Costa</title>
     <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Jordi Costa i Sònia Gelmà analitzen de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.
@@ -4266,6 +4274,14 @@
 [COLOR teal]· País:[/COLOR] Reino Unido</desc>
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2e7b52b13c774966bd8783b76816c703/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/2e7b52b13c774966bd8783b76816c703/version/0" />
+  </programme>
+  <programme start="20260826215500 +0200" stop="20260826222800 +0200" channel="Esport 3">
+    <title>Zona Zàping Club</title>
+    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVCP4358722" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVCF4358722" />
   </programme>
   <programme start="20260826220000 +0000" stop="20260826223000 +0000" channel="PT | Sport TV +">
     <title>Lyon x Fenerbahçe [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Lyon x Fenerbahçe - Play-Off 2ª Mão[/COLOR]</title>
@@ -4296,6 +4312,14 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTDEPP651657" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTDEPF651657" />
   </programme>
+  <programme start="20260826222800 +0200" stop="20260826230000 +0200" channel="Esport 3">
+    <title>Zona Zàping Club</title>
+    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVCP4358722" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVCF4358722" />
+  </programme>
   <programme start="20260826223000 +0000" stop="20260826230000 +0000" channel="PT | Sport TV +">
     <title>Últimas Notícias [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qua 26-ago, 23:30[/COLOR]</title>
     <desc>[COLOR SlateBlue]Desporto,Notícias[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR yellow]⑫[/COLOR]
@@ -4318,14 +4342,6 @@
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488882" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4451579" />
-  </programme>
-  <programme start="20260826223000 +0200" stop="20260826230000 +0200" channel="Esport 3">
-    <title>Zona Zàping Club</title>
-    <desc>[COLOR SlateBlue]Entretenimiento,Magacín[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
-· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MTVCP4358722" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MTVCF4358722" />
   </programme>
   <programme start="20260826223000 +0200" stop="20260827023000 +0200" channel="LaLiga TV Hypermotion HD">
     <title>LALIGA TV HYPERMOTION</title>
@@ -4589,7 +4605,7 @@
   </programme>
   <programme start="20260827015000 +0200" stop="20260827022000 +0200" channel="M+ Liga de Campeones HD">
     <title>Especiales UEFA Champions League [COLOR tomato]T24/25[/COLOR] [COLOR goldenrod]Película oficial UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Reportajes sobre la actualidad de la UEFA Champions League.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2299537V4045099" />
@@ -4659,13 +4675,12 @@
     <title>LALIGA TV HYPERMOTION</title>
     <desc>· Programa por determinar...</desc>
   </programme>
-  <programme start="20260827024000 +0200" stop="20260827041000 +0200" channel="Esport 3">
-    <title>Tot Costa</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· Jordi Costa i Sònia Gelmà analitzen de manera rigorosa, però també amb un to desenfadat, tota l'actualitat esportiva.
-[COLOR teal]· País:[/COLOR] España</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4109110" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4109110" />
+  <programme start="20260827024000 +0200" stop="20260827040000 +0200" channel="Esport 3">
+    <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· Emissió d'una transmissió esportiva.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4386218" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4386218" />
   </programme>
   <programme start="20260827030000 +0000" stop="20260827033000 +0000" channel="PT | Sport TV +">
     <title>Últimas Notícias [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qui 27-ago, 04:00[/COLOR]</title>
@@ -4738,6 +4753,14 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/7d6113e6f5f2454390584339d9e9782e/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/7d6113e6f5f2454390584339d9e9782e/version/0" />
   </programme>
+  <programme start="20260827040000 +0200" stop="20260827042000 +0200" channel="Esport 3">
+    <title>3CatInfo Esports</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· Cada mitjanit, "3CatInfo Esports" repassa l'actualitat esportiva del dia. Amb la mirada posada a les principals competicions, i les imatges més espectaculars del món de l'esport.
+[COLOR teal]· País:[/COLOR] España</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4127942" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/M2350885H4127942" />
+  </programme>
   <programme start="20260827040000 +0200" stop="20260827080000 +0200" channel="Eurosport 2">
     <title>Eurosport 2</title>
     <desc>· Programa por determinar...</desc>
@@ -4749,20 +4772,13 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f488c234c50a4a15af42656d74594616/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/f488c234c50a4a15af42656d74594616/version/0" />
   </programme>
-  <programme start="20260827041000 +0200" stop="20260827042500 +0200" channel="Esport 3">
+  <programme start="20260827042000 +0200" stop="20260827043500 +0200" channel="Esport 3">
     <title>Sala de Premsa</title>
     <desc>[COLOR SlateBlue]Información,Informativo[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · Informatiu diari.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4105603" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4105603" />
-  </programme>
-  <programme start="20260827042500 +0200" stop="20260827054500 +0200" channel="Esport 3">
-    <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
-· Emissió d'una transmissió esportiva.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4386220" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4386220" />
   </programme>
   <programme start="20260827043000 +0000" stop="20260827063000 +0000" channel="PT | Sport TV 3">
     <title>Sem Emissão [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qui 27-ago, 05:30[/COLOR]</title>
@@ -4777,6 +4793,13 @@
 · La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
+  </programme>
+  <programme start="20260827043500 +0200" stop="20260827055500 +0200" channel="Esport 3">
+    <title>Transmissions esportives [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]Final Supercopa Catalunya[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Otros deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+· Emissió d'una transmissió esportiva.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4386220" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4386220" />
   </programme>
   <programme start="20260827045600 +0000" stop="20260827050000 +0000" channel="PT | Sport TV +">
     <title>Sem Emissão [COLOR tomato]T1[/COLOR] [COLOR goldenrod]qui 27-ago, 05:56[/COLOR]</title>
@@ -4820,16 +4843,6 @@
     <icon src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/61805b7033194b57b2104db64698fdca/version/0" />
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/61805b7033194b57b2104db64698fdca/version/0" />
   </programme>
-  <programme start="20260827054500 +0200" stop="20260827060000 +0200" channel="Esport 3">
-    <title>Zona Zàping</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
-[COLOR teal]· País:[/COLOR] España
-[COLOR teal]· Dirección:[/COLOR] Dani Barcón.
-[COLOR teal]· Productora:[/COLOR] TVC Televisió de Catalunya.</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4110966" />
-    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4110966" />
-  </programme>
   <programme start="20260827054500 +0200" stop="20260827070500 +0200" channel="M+ Vamos HD">
     <title>Bernabéu</title>
     <desc>[COLOR SlateBlue]Documentales,Deportes[/COLOR] | [COLOR cadetblue]2017[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★7.6/10[/COLOR]
@@ -4841,6 +4854,16 @@
 [COLOR teal]· Productora:[/COLOR] Mogambo, Ricardo Marco Budé, María Pérez, El Socio Número 7 A.I.E, Redantfilms.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3586690" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F3586689" />
+  </programme>
+  <programme start="20260827055500 +0200" stop="20260827060000 +0200" channel="Esport 3">
+    <title>Zona Zàping</title>
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2025[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+· Espai setmanal que ofereix un recull de les imatges més espectaculars, curioses o actuals de continguts esportius que ofereixen les diferents cadenes de televisió, tant estatals com internacionals.
+[COLOR teal]· País:[/COLOR] España
+[COLOR teal]· Dirección:[/COLOR] Dani Barcón.
+[COLOR teal]· Productora:[/COLOR] TVC Televisió de Catalunya.</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP3P4110966" />
+    <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T4110966" />
   </programme>
   <programme start="20260827060000 +0000" stop="20260827075500 +0000" channel="PT | Sport TV +">
     <title>Lyon x Fenerbahçe [COLOR tomato]T1[/COLOR] [COLOR goldenrod]Lyon x Fenerbahçe - 2ª Mão[/COLOR]</title>
@@ -5022,7 +5045,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MESP3T1927629" />
   </programme>
   <programme start="20260827100000 +0200" stop="20260827115500 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Sporting - Burgos[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Real Sporting - Burgos[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -5129,7 +5152,7 @@
     <icon2 src="https://orangetv.orange.es/pc/api/rtv/v1/images/epg/COVER/COVER_4367811.jpg" />
   </programme>
   <programme start="20260827113500 +0200" stop="20260827132000 +0200" channel="M+ Vamos HD">
-    <title>Dobles Mixtos TBC [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]US Open[/COLOR]</title>
+    <title>Dobles Mixtos TBC (partido 12) [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]US Open[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Tenis[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · Los Grand Slam son los torneos más importantes del circuito del tenis. Cada temporada, cuatro ciudades albergan estos eventos cargados de tradición: Melbourne, París, Londres y Nueva York.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489858" />
@@ -5748,7 +5771,7 @@
   </programme>
   <programme start="20260827191500 +0200" stop="20260827193000 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes DAZN LaLiga EA Sports [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Osasuna - Levante[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · Resumen con lo más destacado de cada uno de los partidos de Primera División.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -5756,7 +5779,7 @@
   </programme>
   <programme start="20260827193000 +0200" stop="20260827194500 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Granada - Mallorca[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
@@ -5981,7 +6004,7 @@
   </programme>
   <programme start="20260827223000 +0200" stop="20260827230000 +0200" channel="M+ LaLiga HD">
     <title>RC Celta - CA Osasuna [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]La Casa del Fútbol Post[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
 · Postpartido Liga.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2646420V4357514" />
@@ -6018,7 +6041,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4490084" />
   </programme>
   <programme start="20260827230000 +0200" stop="20260828010000 +0200" channel="M+ LaLiga HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Tenerife - Almería[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: CD Tenerife - UD Almería[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -7265,7 +7288,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MGOLF1545617" />
   </programme>
   <programme start="20260828183000 +0200" stop="20260828203000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Sporting - Burgos[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Real Sporting - Burgos[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -7274,7 +7297,7 @@
   </programme>
   <programme start="20260828183000 +0200" stop="20260828202000 +0200" channel="M+ Liga de Campeones HD">
     <title>Play-offs Clasificación: LASK - Celtic [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]UEFA Champions League[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · PLayoff UCL choque de vuelta. El 3-0 de la ida a favor de los escoceses da un margen de maniobra muy amplio a los de Martin O'Neill. El equipo austriaco necesita un milagro en el Raiffeisen Arena de Linz si quiere acceder a la fase liga de la UCL.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492807" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492809" />
@@ -7446,9 +7469,9 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4451580" />
   </programme>
   <programme start="20260828210000 +0200" stop="20260828230000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Tenerife - Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>DIRECTO Jornada 3: CD Tenerife - Real Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· El Heliodoro abre la jornada con un Tenerife que llega lanzado tras ganar sus dos primeros partidos: primero en Ipurua y después ante la UD Almería por 1-0. El Real Sporting comparece reforzado por su primer triunfo del curso.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492132" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492131" />
@@ -7615,7 +7638,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4451581" />
   </programme>
   <programme start="20260828233000 +0200" stop="20260829013000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Tenerife - Almería[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: CD Tenerife - UD Almería[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -8040,9 +8063,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/53b86223a08e4b8f926210abe0784231/version/0" />
   </programme>
   <programme start="20260829070000 +0200" stop="20260829090000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Tenerife - Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>Jornada 3: CD Tenerife - Real Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· El Heliodoro abre la jornada con un Tenerife que llega lanzado tras ganar sus dos primeros partidos: primero en Ipurua y después ante la UD Almería por 1-0. El Real Sporting comparece reforzado por su primer triunfo del curso.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492132" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492131" />
@@ -8146,7 +8169,7 @@
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260829090000 +0200" stop="20260829110000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Celta - Andorra[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: RC Celta B - FC Andorra[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -8501,7 +8524,7 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4371804" />
   </programme>
   <programme start="20260829130000 +0200" stop="20260829150000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: Castellón - Sabadell[/COLOR]</title>
+    <title>LALIGA HYPERMOTION [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 2: CD Castellón - CE Sabadell[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
@@ -8646,9 +8669,9 @@
     <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F78bacd0c159749c2acd5e8e66c360319&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI" />
   </programme>
   <programme start="20260829150000 +0200" stop="20260829170000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Tenerife - Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>Jornada 3: CD Tenerife - Real Sporting [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· El Heliodoro abre la jornada con un Tenerife que llega lanzado tras ganar sus dos primeros partidos: primero en Ipurua y después ante la UD Almería por 1-0. El Real Sporting comparece reforzado por su primer triunfo del curso.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492132" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492131" />
@@ -8783,9 +8806,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/b5346a69ecf54215a20594c1b260b8b5/version/0" />
   </programme>
   <programme start="20260829170000 +0200" stop="20260829190000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Sabadell - Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>DIRECTO Jornada 3: CE Sabadell - UD Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· La Nova Creu Alta recibe a un Sabadell que todavía no ha encajado, pero que tampoco ha marcado en sus dos primeras citas. La UD Almería llega después de caer por la mínima en Tenerife, frenazo que matiza el buen estreno ante el Eldense.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492134" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492133" />
@@ -8928,9 +8951,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/77f507ecfd664b48a4fa710ba5e8f575/version/0" />
   </programme>
   <programme start="20260829190000 +0200" stop="20260829210000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Albacete - Oviedo [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+    <title>DIRECTO Jornada 3: Albacete BP - Real Oviedo [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· El Carlos Belmonte reúne a dos equipos necesitados de impulso. El Albacete viene de caer ante la Real Sociedad B y todavía busca su primer triunfo. El Real Oviedo también necesita una respuesta tras perder en casa frente al Leganés.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492136" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492135" />
@@ -9008,7 +9031,7 @@
   </programme>
   <programme start="20260829204000 +0200" stop="20260829224500 +0200" channel="M+ Liga de Campeones HD">
     <title>DIRECTO Jornada 2: Juventus - Parma [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Serie A Calcio[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
 · El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
 [COLOR teal]· País:[/COLOR] Italia</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4494544" />
@@ -9016,7 +9039,7 @@
   </programme>
   <programme start="20260829204000 +0200" stop="20260829224500 +0200" channel="M+ Vamos 2">
     <title>DIRECTO Jornada 2: Juventus - Parma [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Serie A Calcio[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR gold]★6.6/10[/COLOR]
 · El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
 [COLOR teal]· País:[/COLOR] Italia</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4494544" />
@@ -9063,7 +9086,7 @@
   </programme>
   <programme start="20260829210000 +0200" stop="20260829212400 +0200" channel="M+ LaLiga HD">
     <title>DIRECTO Sevilla FC- Atlético de Madrid [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]La Casa del Fútbol Previa[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.6/10[/COLOR]
 · Previa Liga Española. 1ª División.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495671" />
@@ -9115,9 +9138,9 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MDAZNLIT4363839" />
   </programme>
   <programme start="20260829213000 +0200" stop="20260829233000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Girona - Las Palmas [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>DIRECTO Jornada 3: Girona FC - UD Las Palmas [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· Montilivi acoge una prueba exigente para un Girona que solo ha sumado un punto en las dos primeras jornadas, después del empate ante el Leganés y la derrota en Córdoba. La UD Las Palmas llega como líder y con pleno de seis puntos tras vencer al Albacete.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492140" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492139" />
@@ -9178,7 +9201,7 @@
   </programme>
   <programme start="20260829223000 +0200" stop="20260829224500 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 3: Leganés - Eldense[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -9306,9 +9329,9 @@
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260830000000 +0200" stop="20260830020000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Sabadell - Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>Jornada 3: CE Sabadell - UD Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· La Nova Creu Alta recibe a un Sabadell que todavía no ha encajado, pero que tampoco ha marcado en sus dos primeras citas. La UD Almería llega después de caer por la mínima en Tenerife, frenazo que matiza el buen estreno ante el Eldense.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492134" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492133" />
@@ -9350,7 +9373,7 @@
   </programme>
   <programme start="20260830004500 +0200" stop="20260830010000 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 3: Girona - Las Palmas[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -9713,9 +9736,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/3f2b1dce0636420da0ce8e7b34846f86/version/0" />
   </programme>
   <programme start="20260830070000 +0200" stop="20260830090000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Leganés - Eldense [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+    <title>Jornada 3: CD Leganés - CD Eldense [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Butarque recibe a un Leganés que llega reforzado por su victoria en el Carlos Tartiere, un resultado de mucho peso competitivo después del empate inicial en Montilivi. El Eldense acude con necesidad de estrenar victoria tras la derrota en Almería.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492138" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492137" />
@@ -9811,9 +9834,9 @@
     <desc>· Programa por determinar...</desc>
   </programme>
   <programme start="20260830090000 +0200" stop="20260830110000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Girona - Las Palmas [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>Jornada 3: Girona FC - UD Las Palmas [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· Montilivi acoge una prueba exigente para un Girona que solo ha sumado un punto en las dos primeras jornadas, después del empate ante el Leganés y la derrota en Córdoba. La UD Las Palmas llega como líder y con pleno de seis puntos tras vencer al Albacete.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492140" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492139" />
@@ -9957,9 +9980,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/24335dbf392f44afb9ffd2353c13f1fa/version/0" />
   </programme>
   <programme start="20260830110000 +0200" stop="20260830130000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Albacete - Oviedo [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+    <title>Jornada 3: Albacete BP - Real Oviedo [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· El Carlos Belmonte reúne a dos equipos necesitados de impulso. El Albacete viene de caer ante la Real Sociedad B y todavía busca su primer triunfo. El Real Oviedo también necesita una respuesta tras perder en casa frente al Leganés.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492136" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492135" />
@@ -10132,23 +10155,23 @@
   </programme>
   <programme start="20260830130000 +0200" stop="20260830131500 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 3: Leganés - Eldense[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4451580" />
   </programme>
   <programme start="20260830130000 +0200" stop="20260830150000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Sabadell - Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <title>Jornada 3: CE Sabadell - UD Almería [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
     <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+· La Nova Creu Alta recibe a un Sabadell que todavía no ha encajado, pero que tampoco ha marcado en sus dos primeras citas. La UD Almería llega después de caer por la mínima en Tenerife, frenazo que matiza el buen estreno ante el Eldense.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492134" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492133" />
   </programme>
   <programme start="20260830131500 +0200" stop="20260830133000 +0200" channel="DAZN LaLiga HD">
     <title>Resúmenes LALIGA HyperMotion [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]Jornada 3: Girona - Las Palmas[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★4.6/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
 · El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -10299,9 +10322,9 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/d96031e45c3f41b8aebe0cfd1411c44b/version/0" />
   </programme>
   <programme start="20260830150000 +0200" stop="20260830170000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>Jornada 3: Leganés - Eldense [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
-· La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
+    <title>Jornada 3: CD Leganés - CD Eldense [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+· Butarque recibe a un Leganés que llega reforzado por su victoria en el Carlos Tartiere, un resultado de mucho peso competitivo después del empate inicial en Montilivi. El Eldense acude con necesidad de estrenar victoria tras la derrota en Almería.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492138" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4492137" />
@@ -10765,8 +10788,8 @@
     <icon2 src="https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8b214df4040148c18805ec66b727284e/version/0" />
   </programme>
   <programme start="20260830213000 +0200" stop="20260830233000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Córdoba - Granada [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
+    <title>DIRECTO Jornada 3: Córdoba CF - Granada CF [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492148" />
@@ -11452,7 +11475,7 @@
   </programme>
   <programme start="20260831150000 +0200" stop="20260831163000 +0200" channel="DAZN LaLiga HD">
     <title>DIRECTO [COLOR tomato]T2 E3[/COLOR] [COLOR goldenrod]La Dazoneta[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.0/10[/COLOR]
 · Un vistazo a la actualidad futbolística del fin de semana desde un tono desenfadado, cercano a los aficionados y donde el humor está muy presente.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -11570,7 +11593,7 @@
   </programme>
   <programme start="20260831180000 +0200" stop="20260831201000 +0200" channel="M+ Vamos HD">
     <title>DIRECTO Ventana 4: Grecia - España [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]FIBA Copa del Mundo. Clasificatorios[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Baloncesto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Baloncesto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
 · Las 32 mejores selecciones de Europa competirán durante las 3 ventanas FIBA para clasificarse para el Mundial de Catar 2027. La selección española, dirigida por Chus Mateo, marcha con paso firme en esta primera fase.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4494999" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4494998" />
@@ -11696,8 +11719,8 @@
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/MLIGBART4207134" />
   </programme>
   <programme start="20260831213000 +0200" stop="20260831233000 +0200" channel="LaLiga TV Hypermotion HD">
-    <title>DIRECTO Jornada 3: Celta - Castellón [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <title>DIRECTO Jornada 3: RC Celta B - CD Castellón [COLOR tomato]T26/27[/COLOR] [COLOR goldenrod]LALIGA HYPERMOTION[/COLOR]</title>
+    <desc>[COLOR SlateBlue]Deportes,Fútbol[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.2/10[/COLOR]
 · La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 [COLOR teal]· País:[/COLOR] España</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492152" />
@@ -11741,7 +11764,7 @@
   </programme>
   <programme start="20260831220000 +0200" stop="20260831230000 +0200" channel="M+ Vamos HD">
     <title>[COLOR tomato]T26/27 E2[/COLOR] [COLOR goldenrod]El día después[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Programa deportes[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.4/10[/COLOR]
 · 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
 [COLOR teal]· País:[/COLOR] España
 [COLOR teal]· Presenta:[/COLOR] Julio Maldonado, Carlos Martínez, Noemí de Miguel, Álvaro Benito, Mateu Lahoz.</desc>
@@ -11808,7 +11831,7 @@
   </programme>
   <programme start="20260901000000 +0200" stop="20260901015000 +0200" channel="M+ Vamos HD">
     <title>Ventana 4: Grecia - España [COLOR tomato]T2026[/COLOR] [COLOR goldenrod]FIBA Copa del Mundo. Clasificatorios[/COLOR]</title>
-    <desc>[COLOR SlateBlue]Deportes,Baloncesto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★6.0/10[/COLOR]
+    <desc>[COLOR SlateBlue]Deportes,Baloncesto[/COLOR] | [COLOR cadetblue]2026[/COLOR] | [COLOR lime]TP[/COLOR] | [COLOR gold]★5.8/10[/COLOR]
 · Las 32 mejores selecciones de Europa competirán durante las 3 ventanas FIBA para clasificarse para el Mundial de Catar 2027. La selección española, dirigida por Chus Mateo, marcha con paso firme en esta primera fase.</desc>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4494999" />
     <icon2 src="https://www.movistarplus.es/recorte/n/ficha/F4494998" />
