@@ -1,54 +1,87 @@
 # miEPG
 
-Generador automático de una EPG XMLTV reducida a los canales del M3U remoto. La
-EPG resultante está pensada para usarse con Kodi IPTV Simple Client.
+Genera y mantiene `epg.xml`, una guía XMLTV filtrada para los canales del M3U
+oficial. Está pensada para Kodi IPTV Simple Client. El M3U se descarga solo para
+leer sus metadatos; el proyecto no lo guarda ni lo modifica.
 
-## Funcionamiento
+## Flujo
 
-`generar_epg.py` realiza estas operaciones:
+1. Descarga la lista oficial desde IPNS:
+   `https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_kodi.m3u`
+2. Si `inbrowser.link` entrega su página HTML de servicio en vez del M3U, prueba
+   los gateways raw configurados en `config/fuentes_epg.json`.
+3. De cada `#EXTINF` obtiene `tvg-id`, `tvg-name`, nombre visible, `group-title` y
+   `tvg-logo`. Solo esos canales se buscan en las guías EPG.
+4. Descarga DobleM e Italia, relaciona por ID exacto o normalizado, aliases
+   configurados y `display-name`, y aplica la prioridad configurada si varias
+   fuentes coinciden.
+5. Copia al XMLTV los metadatos disponibles de canales y programas. Los
+   `programme.channel` generados utilizan exactamente el `tvg-id` del M3U cuando
+   existe.
+6. Valida el XML en un archivo temporal y reemplaza `epg.xml` únicamente después
+   de comprobar su estructura, fechas, referencias y duplicados. Si fallan todas
+   las fuentes o el resultado queda vacío, conserva el `epg.xml` anterior.
 
-1. Descarga el M3U publicado mediante IPNS.
-2. Lee nombre, `tvg-id`, `tvg-logo` y grupo de todas las entradas `#EXTINF`.
-3. Descarga las guías DobleM e Italia de EPGshare.
-4. Asocia por ID exacto, ID normalizado, mappings comprobados o `display-name`.
-5. Conserva solo los canales y programas necesarios y crea `epg.xml`.
-6. Muestra `OK` para cada asociación encontrada y `XX` para las no resueltas.
+## Fuentes y prioridad
 
-Las variantes 720p/1080p y los asteriscos se ignoran al identificar el canal.
-Cuando el M3U tiene `tvg-id`, ese mismo valor se usa como `channel id` en el XMLTV.
-Cuando está vacío, se conserva el ID real de la fuente y el nombre limpio del M3U
-se incluye como `display-name`; no se inventan IDs.
+Las fuentes están en `config/fuentes_epg.json`:
 
-La dirección original `inbrowser.link` devuelve una aplicación HTML que necesita
-un navegador. El script la prueba primero y, si no recibe un M3U, usa el gateway
-HTTP `ipns.dweb.link` para descargar exactamente el mismo nombre IPNS.
+- **M3U:** el IPNS oficial indicado arriba; se prueban también gateways raw de
+  ese mismo recurso cuando el gateway de navegador devuelve HTML.
+- **DobleM:**
+  `https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/EPG_dobleM.xml.gz`
+- **Italia:**
+  `https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz`
 
-## Generación local
+DobleM tiene prioridad `1` e Italia prioridad `2`. Si varias fuentes tienen el
+mismo canal, se prefiere una que contenga programas; si varias tienen guía para
+él, gana la de menor número de prioridad. Si una fuente falla, se continúa con
+las demás. Si todas fallan, la ejecución termina con error sin reemplazar el XML
+anterior.
 
-Se necesita Python 3.10 o posterior; no hay dependencias externas:
+## Aliases
+
+Los mappings verificados están separados de la lógica en
+`config/aliases_epg.json`. Cada clave es el nombre normalizado del `tvg-id`,
+`tvg-name` o nombre visible. El valor identifica la fuente y su `channel id` real.
+Ejemplo:
+
+```json
+"dazn 1 italia": {
+  "source": "Italia",
+  "channel_id": "DAZN.1.it.it"
+}
+```
+
+Para añadir un alias, agrega una entrada con el nombre normalizado y un
+`channel_id` existente en la fuente seleccionada. La salida usa el `tvg-id` del
+M3U como `<channel id>` para mantener la relación con Kodi.
+
+## Ejecución local
+
+Requiere Python 3.10 o posterior. Solo usa la biblioteca estándar; no hay que
+instalar dependencias.
 
 ```bash
 python generar_epg.py
+python validar_epg.py
 ```
 
-El comando termina con código `0` si todas las entradas tienen EPG y con código
-`2` si genera el archivo pero queda alguna entrada `XX`. Un fallo de descarga o de
-XML termina con código `1`.
+El generador imprime las fuentes descargadas, canales detectados/emparejados/sin
+EPG y programas importados. Una fuente individual puede fallar sin detener las
+demás. `validar_epg.py` también se puede ejecutar por separado para revisar el
+archivo guardado.
 
-## Automatización
+## GitHub Actions
 
-El workflow `.github/workflows/actualizar-epg.yml` se ejecuta cada cuatro horas y
-también permite ejecución manual desde la pestaña **Actions**. Tiene permiso de
-escritura y solo hace commit/push cuando `epg.xml` cambia.
+`.github/workflows/update-epg.yml` se ejecuta cada cuatro horas y también admite
+`workflow_dispatch` desde **Actions**. No necesita instalar paquetes. Valida la
+salida antes de publicar y crea el commit `chore: update EPG` solo cuando cambia
+`epg.xml`. El workflow no tiene disparador `push`, así que su propio commit no
+inicia otra ejecución.
 
-Después de subir el repositorio, la URL para Kodi será:
+El `epg.xml` publicado para Kodi queda disponible en:
 
 ```text
 https://raw.githubusercontent.com/bryancastanosansegundo5/miEPG/main/epg.xml
 ```
-
-## Fuentes
-
-- M3U: `https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.inbrowser.link/hashes_kodi.m3u`
-- DobleM: `https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/EPG_dobleM.xml.gz`
-- Italia: `https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz`

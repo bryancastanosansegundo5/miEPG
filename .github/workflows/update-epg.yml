@@ -1,4 +1,4 @@
-name: Actualizar EPG
+name: Update EPG
 
 on:
   schedule:
@@ -9,33 +9,37 @@ permissions:
   contents: write
 
 concurrency:
-  group: actualizar-epg
+  group: update-epg
   cancel-in-progress: false
 
 jobs:
-  generar:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Descargar repositorio
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Preparar Python
+      - name: Prepare Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generar EPG
+      - name: Download M3U and generate epg.xml
         run: python generar_epg.py
 
-      - name: Publicar solo si ha cambiado
+      - name: Validate epg.xml
+        run: python validar_epg.py
+
+      - name: Commit only when epg.xml changed
+        if: github.ref == 'refs/heads/main'
         shell: bash
         run: |
           if [[ -z "$(git status --porcelain -- epg.xml)" ]]; then
-            echo "epg.xml no ha cambiado"
+            echo "epg.xml has not changed"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add epg.xml
-          git commit -m "Actualizar EPG"
+          git commit -m "chore: update EPG"
           git push

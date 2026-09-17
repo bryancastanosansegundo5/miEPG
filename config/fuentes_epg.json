@@ -1,0 +1,22 @@
+{
+  "m3u_urls": [
+    "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_kodi.m3u",
+    "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.dweb.link/data/listas/lista_kodi.m3u",
+    "https://ipfs.io/ipns/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_kodi.m3u"
+  ],
+  "m3u_timeout_seconds": 45,
+  "epg_timeout_seconds": 120,
+  "generator_info_url": "https://github.com/bryancastanosansegundo5/miEPG",
+  "epg_sources": [
+    {
+      "name": "DobleM",
+      "url": "https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/EPG_dobleM.xml.gz",
+      "priority": 1
+    },
+    {
+      "name": "Italia",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
+      "priority": 2
+    }
+  ]
+}

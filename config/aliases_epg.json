@@ -1,0 +1,30 @@
+{
+  "dazn 1 italia": {
+    "source": "Italia",
+    "channel_id": "DAZN.1.it.it"
+  },
+  "real madrid tv": {
+    "source": "DobleM",
+    "channel_id": "Real Madrid TV"
+  },
+  "sport tv2": {
+    "source": "DobleM",
+    "channel_id": "PT | Sport TV 2"
+  },
+  "sport tv3": {
+    "source": "DobleM",
+    "channel_id": "PT | Sport TV 3"
+  },
+  "sport tv7": {
+    "source": "DobleM",
+    "channel_id": "PT | Sport TV 7"
+  },
+  "sport tv plus": {
+    "source": "DobleM",
+    "channel_id": "PT | Sport TV +"
+  },
+  "tennis channel": {
+    "source": "DobleM",
+    "channel_id": "Tennis Channel"
+  }
+}
